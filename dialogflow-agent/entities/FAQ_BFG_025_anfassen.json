@@ -1,0 +1,9 @@
+{
+  "id": "b5c8cbcf-2413-427d-9d61-01f0be6c7aa4",
+  "name": "FAQ_BFG_025_anfassen",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

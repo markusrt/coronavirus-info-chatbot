@@ -1,0 +1,80 @@
+[
+  {
+    "value": "gefährlich",
+    "synonyms": [
+      "gefährlich"
+    ]
+  },
+  {
+    "value": "unangenehm",
+    "synonyms": [
+      "unangenehm"
+    ]
+  },
+  {
+    "value": "gesundheitsschädigend",
+    "synonyms": [
+      "gesundheitsschädigend"
+    ]
+  },
+  {
+    "value": "ernst",
+    "synonyms": [
+      "ernst"
+    ]
+  },
+  {
+    "value": "kritisch",
+    "synonyms": [
+      "kritisch"
+    ]
+  },
+  {
+    "value": "tödlich",
+    "synonyms": [
+      "tödlich"
+    ]
+  },
+  {
+    "value": "schädlich",
+    "synonyms": [
+      "schädlich"
+    ]
+  },
+  {
+    "value": "lebensgefährlich",
+    "synonyms": [
+      "lebensgefährlich"
+    ]
+  },
+  {
+    "value": "riskant",
+    "synonyms": [
+      "riskant"
+    ]
+  },
+  {
+    "value": "schlimm",
+    "synonyms": [
+      "schlimm"
+    ]
+  },
+  {
+    "value": "verhängnisvoll",
+    "synonyms": [
+      "verhängnisvoll"
+    ]
+  },
+  {
+    "value": "verderblich",
+    "synonyms": [
+      "verderblich"
+    ]
+  },
+  {
+    "value": "heikel",
+    "synonyms": [
+      "heikel"
+    ]
+  }
+]

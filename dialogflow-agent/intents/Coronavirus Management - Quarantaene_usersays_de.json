@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f3b55329-1a2f-41c6-aaae-674b4217b3e9",
+    "data": [
+      {
+        "text": "Ich möchte meine täglichen Werte übermitteln",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f680eaa8-c668-41a7-b876-f7aaeb01dc38",
+    "data": [
+      {
+        "text": "Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

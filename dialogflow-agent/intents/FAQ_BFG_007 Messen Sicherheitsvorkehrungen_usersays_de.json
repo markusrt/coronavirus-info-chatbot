@@ -1,0 +1,260 @@
+[
+  {
+    "id": "3ead77aa-40f6-4398-a165-e4ecf47f1aac",
+    "data": [
+      {
+        "text": "was muss ich beachten wenn ich öffentliche Plätze Besucher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0146f1f0-13ce-428f-9070-48cac7b6c024",
+    "data": [
+      {
+        "text": "darf ich mich in der Öffentlichkeit bewegen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f651a028-163a-41db-b42b-59ea373c3a97",
+    "data": [
+      {
+        "text": "Kann ich mich beim Einkaufen anstecken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e783d2-82f0-4fc4-aa68-e1cfb5bf3c38",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "Restaurants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " noch sicher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7362679e-ddc4-47d1-bf4f-8c790ab81201",
+    "data": [
+      {
+        "text": "Darf man in ",
+        "userDefined": false
+      },
+      {
+        "text": "die Kirche",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eda4ae0e-18f7-488c-98fd-0643e5155284",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " öffentlichen ",
+        "userDefined": false
+      },
+      {
+        "text": "Ort",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7ebec2c-11e7-4900-b0ea-e27f6b41d198",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "einen öffendlichen Ort",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " besuchen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "082432c6-8423-4960-afe4-52560dd08196",
+    "data": [
+      {
+        "text": "Kann ich noch ins ",
+        "userDefined": false
+      },
+      {
+        "text": "Theater",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f661c5b-ce21-48d6-bac6-46f4d6063715",
+    "data": [
+      {
+        "text": "Was ist mit meinem Konzertbesuch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61142ab7-37cf-4ee9-859d-38635b39a20f",
+    "data": [
+      {
+        "text": "Darf ich zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Kongress",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4aad990d-3fcb-4647-9922-37ff273c86e0",
+    "data": [
+      {
+        "text": "Kann ich noch vor die ",
+        "userDefined": false
+      },
+      {
+        "text": "Tür",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "46e487c6-8a74-4a11-ac5a-36c42664d7c4",
+    "data": [
+      {
+        "text": "Was ist mit Großveranstaltungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2e64f93-6735-462d-9a63-8aaf8f2a9043",
+    "data": [
+      {
+        "text": "Müssen bei Messen besondere Sicherheitsvorkehrungen getroffen werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95d53cdb-704c-46cf-806d-5a97081dbbc7",
+    "data": [
+      {
+        "text": "Messen Sicherheitsvorkehrungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

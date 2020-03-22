@@ -1,0 +1,68 @@
+{
+  "id": "12ff8174-ee37-43d7-ae57-89210e17628b",
+  "name": "FAQ_BFG_026 Gefährlichkeit Infektion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "de0d2a02-9c61-401b-9d85-07dad11855ce",
+          "required": false,
+          "dataType": "@FAQ_BFG_026_Infektion",
+          "name": "FAQ_BFG_026_Infektion",
+          "value": "$FAQ_BFG_026_Infektion",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b3836637-cd79-420a-89bb-97f8697b22ad",
+          "required": false,
+          "dataType": "@FAQ_BFG_026_gefaehrlich",
+          "name": "FAQ_BFG_026_gefaehrlich",
+          "value": "$FAQ_BFG_026_gefaehrlich",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a3370c0f-b336-4c99-955c-d767a93e07d9",
+          "required": false,
+          "dataType": "@FAQ_BFG_026_Komplikation",
+          "name": "FAQ_BFG_026_Komplikation",
+          "value": "$FAQ_BFG_026_Komplikation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

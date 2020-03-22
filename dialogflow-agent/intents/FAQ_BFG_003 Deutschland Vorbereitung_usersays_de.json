@@ -1,0 +1,256 @@
+[
+  {
+    "id": "2a9f0d9a-76fe-4120-adbe-9ee68304021d",
+    "data": [
+      {
+        "text": "Robert Koch Institut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed82ddad-49d4-4852-8439-4f768dd8ff6f",
+    "data": [
+      {
+        "text": "Robert-Koch",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-Institut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47b9a698-976d-4ee9-b434-3454afe5ec42",
+    "data": [
+      {
+        "text": "wie ist Deutschland vorbereitet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a4b7356-b072-4fbb-8241-9dbe2749574e",
+    "data": [
+      {
+        "text": "wo bekomme ich mehr Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c77b11e3-2e26-451a-aa5f-87467054b30f",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Grund",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zur ",
+        "userDefined": false
+      },
+      {
+        "text": "Panik",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "565372cd-e5af-431f-ac6c-6bed4cc31c4d",
+    "data": [
+      {
+        "text": "Sind wir gerüstet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "220ad1d8-0130-4450-8815-68a846db1ccd",
+    "data": [
+      {
+        "text": "Ist das ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Ernstfall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4c75713-3461-441f-9002-cbf3427740a5",
+    "data": [
+      {
+        "text": "Existieren Einsatzpläne?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dec40734-3a2e-42c4-871d-4a4fbefd603f",
+    "data": [
+      {
+        "text": "Findet ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Koordinierung der Informationen statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "277c246b-00f9-4914-8ceb-009bcf911b45",
+    "data": [
+      {
+        "text": "Was tut die Regierung dagegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf9eda2f-fbba-43be-8109-1ad8b2c4187a",
+    "data": [
+      {
+        "text": "Gibt es genügend ",
+        "userDefined": false
+      },
+      {
+        "text": "Ärzte",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f8dd29a-e300-4866-b006-0fede45058b8",
+    "data": [
+      {
+        "text": "Sind ",
+        "userDefined": false
+      },
+      {
+        "text": "Kliniken",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " verfügbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f12a514-7027-465b-9860-a08fa07d26ec",
+    "data": [
+      {
+        "text": "Sind wir einsatzbereit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebb851f1-e1f3-4a24-9dd0-fc4c93df6627",
+    "data": [
+      {
+        "text": "Wie ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vorbereitet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

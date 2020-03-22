@@ -1,0 +1,131 @@
+[
+  {
+    "id": "b34b14a2-31af-4718-8c41-3fa04b77af0d",
+    "data": [
+      {
+        "text": "gibt es eine Therapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "780f2115-d1a9-4423-8136-7d5c1fd71f6c",
+    "data": [
+      {
+        "text": "wie kann ich das therapieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2361e740-caa3-4cf4-8667-0eb15c17eb7c",
+    "data": [
+      {
+        "text": "Stirbt man daran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c62cb2d2-b1e9-41bd-be1b-172348218e2f",
+    "data": [
+      {
+        "text": "Wie werde ich wieder gesund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ea88643-8a98-4a39-b472-1010864ce15d",
+    "data": [
+      {
+        "text": "Wie behandelt man das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ecaf561-18ab-4a42-a931-1e8944c1927a",
+    "data": [
+      {
+        "text": "Wie sieht die Heilmethode aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e43f519-e807-4b5a-a05e-a17abd55a964",
+    "data": [
+      {
+        "text": "Welche Heilverfahren gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce8ac1c2-9182-4d13-9be3-3fe65ff7d32a",
+    "data": [
+      {
+        "text": "Kann man die Krankheit heilen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12e47082-15c9-4330-a92c-4d48c211e6d5",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Therapie?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4279fa59-bb66-4b82-a1e7-c704897db05b",
+    "data": [
+      {
+        "text": "Therapie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

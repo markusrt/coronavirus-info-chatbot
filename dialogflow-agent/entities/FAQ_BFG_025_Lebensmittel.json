@@ -1,0 +1,9 @@
+{
+  "id": "e80451ae-3cd1-4a79-a3cd-98bf97de2e0c",
+  "name": "FAQ_BFG_025_Lebensmittel",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

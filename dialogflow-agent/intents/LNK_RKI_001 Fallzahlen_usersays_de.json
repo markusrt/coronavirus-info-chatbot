@@ -1,0 +1,374 @@
+[
+  {
+    "id": "8c2ef6c9-43fe-496b-b959-55788a5996f8",
+    "data": [
+      {
+        "text": "wie weit ist die Ausbreitung in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf0519b7-6218-42a3-bd1c-c786da1e0340",
+    "data": [
+      {
+        "text": "wie viel Fallzahlen gibt es in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "879ca744-5a9c-409c-9e54-f28c09e204c7",
+    "data": [
+      {
+        "text": "Wie Viele Infizierte gibt es aktuell in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a30f17-92e4-4694-a62c-3b57812ade62",
+    "data": [
+      {
+        "text": "wieviele fälle in deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78977d73-aedd-48ab-ac7b-d307f0bb680a",
+    "data": [
+      {
+        "text": "Fallzahlen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "796121f3-cd38-43ff-adfe-50376c5e22af",
+    "data": [
+      {
+        "text": "fallzahlen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c107c0ac-8e90-4919-92c7-1dce0ef68403",
+    "data": [
+      {
+        "text": "wieviele sind krank?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f70e207-e455-449b-a3bf-8c316bf432df",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "hoch",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist die Anzahl der Infizierten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8426b972-54f7-4f23-90f9-352e311cbbdf",
+    "data": [
+      {
+        "text": "wie viele Erkrankte gibt es in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "128f7c20-473d-4234-8754-056feb6e83e5",
+    "data": [
+      {
+        "text": "fallzahlen in deu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79796681-567f-4153-927a-c265918e0ea4",
+    "data": [
+      {
+        "text": "wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist die ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "krise",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " vorüber?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86136ac4-492d-4e39-853c-bbcc573a3602",
+    "data": [
+      {
+        "text": "wie stark ist ",
+        "userDefined": false
+      },
+      {
+        "text": "Norddeutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " betroffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7708cad1-d1fb-4143-aa80-ec5f76e36ce5",
+    "data": [
+      {
+        "text": "Fallzahlen in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "207aa0f3-736e-462a-9e59-77627e8c8387",
+    "data": [
+      {
+        "text": "wie viele Fälle gibt es in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dab774d-38d7-49f7-a594-940cb1a0732e",
+    "data": [
+      {
+        "text": "wie viel Personen gibt es in Deutschland die sich erkrankt haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bedf1a8-d9b7-47bd-bbf6-d6ad82d1de0b",
+    "data": [
+      {
+        "text": "wie viele Infektionen gibt ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e772f6a3-7cd5-41c5-9c3c-f6bfb3ac4f2d",
+    "data": [
+      {
+        "text": "wie viele Fälle gibt ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e156d40a-4ff3-4f71-90d7-5371aee335cf",
+    "data": [
+      {
+        "text": "wie sind die Fallzahlen für Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0909c860-202a-4838-963c-5b1a99c99c01",
+    "data": [
+      {
+        "text": "wie viel Erkrankung gibt es in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e049a7d9-b658-4a5a-8ee0-a0e6ae95a90b",
+    "data": [
+      {
+        "text": "wie viele Erkrankungen gibt es in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06fb25c5-dd60-42ee-a10b-3dffeff6f252",
+    "data": [
+      {
+        "text": "Hast du ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Statistik über die infizierten Personen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a582310-3b97-4500-a836-e9a181930544",
+    "data": [
+      {
+        "text": "Was sind die offiziell bestätigte Fallzahlen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4e83bc1a-8b62-4c48-94f8-1012275cbf34",
+    "data": [
+      {
+        "text": "Wie viele Erkrankungen gibt ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "id": "4365b29a-1c1d-48c6-b9c7-07d3de8eace5",
+  "parentId": "8ef1e428-101e-4b51-a1fa-df2710be1961",
+  "rootParentId": "d35c82a4-7336-47cb-bdcf-af5b37625bba",
+  "name": "Coronavirus Management - Fallabklaerung - Krank",
+  "auto": true,
+  "contexts": [
+    "CoronavirusManagement-Fallabklaerung-followup",
+    "CoronavirusManagement-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CoronavirusManagement-Fallabklaerung-Krank",
+      "affectedContexts": [
+        {
+          "name": "CoronavirusManagement-Fallabklaerung-Krank-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Ok, du fühlst dich krank. Wieviele Tage hast du schon Symtome?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ok, du fühlst dich krank. Wieviele Tage hast du schon Symtome?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

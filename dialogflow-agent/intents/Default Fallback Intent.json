@@ -1,0 +1,172 @@
+{
+  "id": "7773096f-5e4a-424b-ac85-ad9bf721c277",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Ich verstehe deine Frage leider nicht. Frage beispielsweise: Wie gefährlich ist eine Infektion? Wir erfolgt die Übertragung? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen.",
+            "Entschuldige bitte, ich habe deine Frage nicht verstanden. Frage beispielsweise: Wie schütze ich mich? Hilft ein Mundschutz? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen.",
+            "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Frage beispielsweise: Wie lang ist die Inkubationszeit? Wie ist Deutschland vorbereitet? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen.",
+            "Leider kann ich nicht verstehen, was du von mir möchtest. Frage beispielsweise: Was ist mit Großveranstaltungen? Wohin kann ich reisen? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen."
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "title": "Bitte wählen...",
+          "replies": [
+            "Quellen",
+            "Über uns",
+            "Dialog Ende"
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "Ich verstehe deine Frage leider nicht.",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Entschuldige bitte, ich habe deine Frage nicht verstanden.",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe.",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Leider kann ich nicht verstehen, was du von mir möchtest.",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Kannst du das noch mal anders formulieren?",
+              "ssml": "",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "Frage beispielsweise: Wie gefährlich ist eine Infektion? oder Wir erfolgt die Übertragung?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Frage beispielsweise: Wie schütze ich mich? oder Hilft ein Mundschutz?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Frage beispielsweise: Wie lang ist die Inkubationszeit? oder Wie ist Deutschland vorbereitet?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Frage beispielsweise: Was ist mit Großveranstaltungen? oder Wohin kann ich reisen?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Frage beispielsweise: Wann ist das zuerst aufgetreten? oder Welche Vorkehrungen wurden getroffen?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Frage beispielsweise: Gibt es eine Impfung? oder Gibt es eine Therapie?",
+              "ssml": "",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "subtitle": "Wichtiger Hinweis",
+          "formattedText": "Bitte bedenke, dass ich nicht auf nachgelagerte Datenbanken zugreife, sondern nur auf Teile der Information des Bundesministerium für Gesundheit. Weitere Information findest du beim ...",
+          "image": {
+            "url": "https://www.auroguide.net/wp-content/uploads/2019/12/information-2160912.png",
+            "accessibilityText": "Quellen"
+          },
+          "buttons": [
+            {
+              "title": "Bundesministerium",
+              "openUrlAction": {
+                "url": "https://www.bundesgesundheitsministerium.de/coronavirus.html",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Quellen"
+            },
+            {
+              "title": "Über uns"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": [
+            "Ich verstehe deine Frage leider nicht. Frage beispielsweise: Wie gefährlich ist eine Infektion? Wir erfolgt die Übertragung? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen. [ Quellen | Über uns | Dialog Ende ]",
+            "Entschuldige bitte, ich habe deine Frage nicht verstanden. Frage beispielsweise: Wie schütze ich mich? Hilft ein Mundschutz? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen. [ Quellen | Über uns | Dialog Ende ]",
+            "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Frage beispielsweise: Wie lang ist die Inkubationszeit? Wie ist Deutschland vorbereitet? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen. [ Quellen | Über uns | Dialog Ende ]",
+            "Leider kann ich nicht verstehen, was du von mir möchtest. Frage beispielsweise: Was ist mit Großveranstaltungen? Wohin kann ich reisen? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen. [ Quellen | Über uns | Dialog Ende ]",
+            "Kannst du das noch mal anders formulieren? Frage beispielsweise: Wann ist das zuerst aufgetreten? Welche Vorkehrungen wurden getroffen? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen. [ Quellen | Über uns | Dialog Ende ]",
+            "Ich verstehe deine Frage leider nicht. Frage beispielsweise: Gibt es eine Impfung? Gibt es eine Therapie? Alternativ schaue direkt auf der Web-Seite https://www.bundesgesundheitsministerium.de/coronavirus.html nach weiteren Themen. [ Quellen | Über uns | Dialog Ende ]"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

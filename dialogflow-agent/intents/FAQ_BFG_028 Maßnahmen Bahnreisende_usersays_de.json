@@ -1,0 +1,107 @@
+[
+  {
+    "id": "79a1bf73-92ef-4c80-a616-5501caa0a403",
+    "data": [
+      {
+        "text": "darf ich mit den öffentlichen Verkehrsmitteln fahren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c7c83fb-1b31-4e05-ad7c-4fc2d3d58ca9",
+    "data": [
+      {
+        "text": "gibt es Maßnahmen für Bahnreisende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9506534-6833-4fb4-b1be-191d105b9621",
+    "data": [
+      {
+        "text": "muss ich was beachten wenn ich Bus fahre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c72b4b8-d5f0-4390-8268-d3c81e471e5f",
+    "data": [
+      {
+        "text": "Soll ich noch Bus fahren?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28f8881e-c2bf-41d9-9b97-927aea521007",
+    "data": [
+      {
+        "text": "Gibt es Einschränkungen im Personenfern- und Regionalverkehr?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd762c6f-58eb-4a97-a46f-affcd63b1e9b",
+    "data": [
+      {
+        "text": "Darf ich ",
+        "userDefined": false
+      },
+      {
+        "text": "öffentliche Verkehrsmittel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " benutzen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47cd87c4-438b-4cdb-8927-b8c6b9222326",
+    "data": [
+      {
+        "text": "Was muss ich bei Bahnreisen beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "91495c5b-5aea-4f21-b8a0-c1a751ada5f3",
+    "data": [
+      {
+        "text": "Gibt es Maßnahmen für Bahnreisende?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e977a6c6-3374-4de3-a365-e222b1566980",
+    "data": [
+      {
+        "text": "Anmeldung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "4ab7153a-e07c-4e35-b4e2-a022cc0e2847",
+    "data": [
+      {
+        "text": "anmeldung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cbd89608-eb19-422b-bdb4-cf1b0e68eeab",
+    "data": [
+      {
+        "text": "Login",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

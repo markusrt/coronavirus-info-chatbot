@@ -1,0 +1,108 @@
+[
+  {
+    "id": "e5246394-730b-4153-a974-70c62d692401",
+    "data": [
+      {
+        "text": "wer ist für mich zuständig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "285b94b2-a6fb-41c1-9ac2-97995dc80612",
+    "data": [
+      {
+        "text": "wer ist für mich zuständig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c1566ba4-679b-423a-a9e4-18bf66240915",
+    "data": [
+      {
+        "text": "zuständigen Gesundheitsamt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e500df59-4281-4458-b200-a1f828b80ff3",
+    "data": [
+      {
+        "text": "Gesundheitsamt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "20809d9d-0377-4ca2-9110-0d65828af1f9",
+    "data": [
+      {
+        "text": "welches Gesundheitsamt ist für mich zuständig",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ce10f1f-8c3b-48d9-be69-53e024e4e61d",
+    "data": [
+      {
+        "text": "Wer ist zuständig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bab1ecd-d2f3-465d-877c-872913072dae",
+    "data": [
+      {
+        "text": "Welches ist mein zuständiges ",
+        "userDefined": false
+      },
+      {
+        "text": "Gesundheitsamt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db49e8ab-0678-447b-b5f6-5cd120e13287",
+    "data": [
+      {
+        "text": "Gesundheitsamt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

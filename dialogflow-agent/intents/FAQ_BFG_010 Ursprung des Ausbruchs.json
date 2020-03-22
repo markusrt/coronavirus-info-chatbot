@@ -1,0 +1,37 @@
+{
+  "id": "336443b8-2fdf-4d24-9aca-12e0993924d3",
+  "name": "FAQ_BFG_010 Ursprung des Ausbruchs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "306c0e2a-35d7-4e9e-a914-e7d02f72a549",
+          "required": false,
+          "dataType": "@FAQ_BFG_024_Ausbruch",
+          "name": "FAQ_BFG_024_Ausbruch",
+          "value": "$FAQ_BFG_024_Ausbruch",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

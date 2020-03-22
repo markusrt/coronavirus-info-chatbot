@@ -1,0 +1,9 @@
+{
+  "id": "cd2dfcab-4621-4182-8fe9-f9aea9802c94",
+  "name": "FAQ_BFG_025_Gegenstand",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

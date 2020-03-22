@@ -1,0 +1,83 @@
+[
+  {
+    "id": "fa59356f-11f6-40e3-91ff-223c0358b14f",
+    "data": [
+      {
+        "text": "Wir wird das koordiniert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6d01283-ba6f-43fa-8578-b6a96bc99853",
+    "data": [
+      {
+        "text": "Stehen Ansprechpartner zur Verfügung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21fea2f6-4af2-4229-b3b8-d5750dfa9579",
+    "data": [
+      {
+        "text": "Wer ist dafür zuständig?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d505002-573a-4090-8f7b-92c872942111",
+    "data": [
+      {
+        "text": "Wer arbeitet an diesem Thema?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9b4e28c-31ea-4db3-8ebb-ad29c138a8de",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "tauchen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sich die Experten aus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f99c9831-67ba-4a7d-ae97-0083026dcb3c",
+    "data": [
+      {
+        "text": "Austausch mit Experten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

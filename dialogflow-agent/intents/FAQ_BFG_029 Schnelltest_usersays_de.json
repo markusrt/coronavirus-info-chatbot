@@ -1,0 +1,224 @@
+[
+  {
+    "id": "1f8ddaf5-6cc1-4857-8a71-e4b6b8c82e82",
+    "data": [
+      {
+        "text": "gibt es eine Möglichkeit sich zu testen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2adba48b-73d9-4e60-96db-f7dfe9b7f265",
+    "data": [
+      {
+        "text": "Wie kann ich wissen ob ich Coronavirus habe?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ca8df00-e16b-4407-b78f-a992e74dc8c2",
+    "data": [
+      {
+        "text": "wie wird ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Infektion getestet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f423351-da0d-4096-9b01-ef4e5af29036",
+    "data": [
+      {
+        "text": "Schnelltest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cef1d1d6-26ed-4625-87a5-6fb0a7fdfe30",
+    "data": [
+      {
+        "text": "bin ich krank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a37f4a0-d2ae-425c-a34b-1d6b5e918932",
+    "data": [
+      {
+        "text": "wo kann ich mich testen lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cce8bc40-c8c0-4ad6-b66b-497336003915",
+    "data": [
+      {
+        "text": "kann es sein dass ich mich angesteckt habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de4968bd-2947-44a6-a238-db62c9ea8e94",
+    "data": [
+      {
+        "text": "habe ich mich angesteckt habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78bb6556-1545-4ab5-9da2-7326953bb2bc",
+    "data": [
+      {
+        "text": "gibt es einen Schnelltest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f3849924-2b2f-4ea9-ac8e-40b0ace00c1f",
+    "data": [
+      {
+        "text": "Gibt es einen Schnelltest?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9f9208b-ca78-4f99-9127-e18e7a2c04d0",
+    "data": [
+      {
+        "text": "woran erkenne ich ob ich krank bin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c834250-e78c-474a-910f-750c5a234621",
+    "data": [
+      {
+        "text": "Habe ich mich angesteckt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27d00f99-438e-4d1f-b094-733c85c64ab0",
+    "data": [
+      {
+        "text": "Wo kann ich mich testen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9773020c-c744-472b-a357-81a47b929f51",
+    "data": [
+      {
+        "text": "Wo finde ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76e6be3d-8431-4140-89af-f1c0e6069830",
+    "data": [
+      {
+        "text": "Bin ich krank?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e34f5542-052b-45b1-9d18-3906e9b28c46",
+    "data": [
+      {
+        "text": "Kann man sich Testen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49b77233-ddd8-4efa-a1ef-e8a3eac29c2d",
+    "data": [
+      {
+        "text": "Gibt es einen Schnelltest für das neuartige Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

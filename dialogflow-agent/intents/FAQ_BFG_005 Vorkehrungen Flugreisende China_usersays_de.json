@@ -1,0 +1,305 @@
+[
+  {
+    "id": "34f04600-6efd-4b15-87c4-d490da4d8c0a",
+    "data": [
+      {
+        "text": "welche Vorkehrungen wurden für Flugreisen aus China getroffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d0250a3-84aa-4700-8a13-3448e7ec637b",
+    "data": [
+      {
+        "text": "gibt es Vorkehrung für Flugreisende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6329170-fa4a-4d4d-8618-6c81816dfa99",
+    "data": [
+      {
+        "text": "Vorkehrung für Flugreisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ede8feb-3a8a-4552-a74c-89ac0fc6c77c",
+    "data": [
+      {
+        "text": "Ich ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aus ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "  zurück ",
+        "userDefined": false
+      },
+      {
+        "text": "Reisen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0b2662c-44b9-4b81-bc4f-e0d691cc94b7",
+    "data": [
+      {
+        "text": "Wie kommt man von ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zurück nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31801549-b6b9-42af-972a-b37a5744fba2",
+    "data": [
+      {
+        "text": "Ich war in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5868c467-f387-4627-91fc-10c48df428e8",
+    "data": [
+      {
+        "text": "Ich hatte ",
+        "userDefined": false
+      },
+      {
+        "text": "einen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Auslandsaufenthalt in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a53a3da5-d09e-4f33-9724-ccf188c0c51d",
+    "data": [
+      {
+        "text": "Wie erfolgt die Einreise vom ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " am ",
+        "userDefined": false
+      },
+      {
+        "text": "Flughafen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92906da3-05ce-46fe-ab37-fea9bfea4ef7",
+    "data": [
+      {
+        "text": "Was ist mit der Zuwanderung aus ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4a2fca1-7e0f-4c4a-af80-ec8711b7ece1",
+    "data": [
+      {
+        "text": "Kann jeder von ",
+        "userDefined": false
+      },
+      {
+        "text": "China nach Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " einreisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fe0e0ab-5919-422f-9f97-8eaad8e6b5cb",
+    "data": [
+      {
+        "text": "Wie wird das mit den Fluggästen aus ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " geregelt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70f97d6c-2b42-41de-8212-30109279b4cb",
+    "data": [
+      {
+        "text": "Was ist mit den Passagier aus ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98c32962-2e01-4eeb-98fd-f8946b2c9d56",
+    "data": [
+      {
+        "text": "Welche Vorkehrungen wurden für Flugreisende getroffen, die aus ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ankommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "318f26e9-9156-4c9e-9344-cdb2e79b3665",
+    "data": [
+      {
+        "text": "FAQ_BFG_005 Vorkehrungen Flugreisende China",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

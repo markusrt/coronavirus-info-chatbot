@@ -1,0 +1,83 @@
+[
+  {
+    "id": "06d5f3c7-ca36-46a8-acfd-6a24ec560814",
+    "data": [
+      {
+        "text": "wer bezahlt das ganze eigentlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "464c46bb-d062-42c7-a8ab-10252f7e8d6b",
+    "data": [
+      {
+        "text": "wer kommt für die Kosten auf",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a87c4b74-9599-4fd0-9335-d550f3fb03e1",
+    "data": [
+      {
+        "text": "gibt es jemand der die Kosten für die Krankheit übernimmt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19dcf96c-0f25-42b4-8077-98e6443d6a82",
+    "data": [
+      {
+        "text": "Wer übernimmt die Kosten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69a4a1cd-4b84-46fe-8e13-fa8e782b269a",
+    "data": [
+      {
+        "text": "gibt es jemand der die ",
+        "userDefined": false
+      },
+      {
+        "text": "Kosten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " für die Krankheit übernimmt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d0b5974-b5fe-452a-91ab-080c303a7695",
+    "data": [
+      {
+        "text": "Zahlung Krankenkasse Test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

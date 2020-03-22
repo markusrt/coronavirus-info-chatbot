@@ -1,0 +1,352 @@
+[
+  {
+    "id": "6b60c1e4-9311-4e9d-8584-711378173c65",
+    "data": [
+      {
+        "text": "kannst du mir jetzt irgendwie weiterhelfen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9ffe943-3000-474e-9973-d951f5a9f49b",
+    "data": [
+      {
+        "text": "was tue ich bei ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Verdachtsfall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b41b0be4-19b0-42aa-85c9-224164909b09",
+    "data": [
+      {
+        "text": "wo bekomme ich Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "116ed4fa-1991-4927-a8c4-5fb2efa96ad9",
+    "data": [
+      {
+        "text": "wo finde ich hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "fcb6e8aa-d0a7-4128-85ad-37f557f0e069",
+    "data": [
+      {
+        "text": "wo finde ich Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "08289169-e6c6-4231-967a-dbcd2efbfa36",
+    "data": [
+      {
+        "text": "wo finde ich Ansprechpartner und Hilfe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7df39e64-1591-4d6b-8d73-42eb7c6ad91d",
+    "data": [
+      {
+        "text": "an wen kann ich mich wenden wenn ich glaube dass ich krank bin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06ef4f44-2815-4604-a96a-c0dd0c196496",
+    "data": [
+      {
+        "text": "wer kann mir helfen wenn ich erkältet bin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "81110e28-3e54-43f6-bb44-4248470c2175",
+    "data": [
+      {
+        "text": "Hotlines zum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca5396c2-313a-4023-b2f8-f7a00f7286ec",
+    "data": [
+      {
+        "text": "Hotline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01cb80d2-ec99-4c32-8642-6afec3c0d42f",
+    "data": [
+      {
+        "text": "wo melde ich mich wenn ich mich befürchte angesteckt zu haben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ab9e4e2-b07a-4ce5-9b07-bc116444c49c",
+    "data": [
+      {
+        "text": "wo melde ich mich wenn ich mich angesteckt habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "decedf28-62c9-449d-85ad-8c2915052596",
+    "data": [
+      {
+        "text": "nacht",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Telefon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bde76e7-fc2a-4d8a-aef3-ca9aaca6cfde",
+    "data": [
+      {
+        "text": "an ",
+        "userDefined": false
+      },
+      {
+        "text": "wen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kann ich mich ",
+        "userDefined": false
+      },
+      {
+        "text": "wenden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ba03e26c-3b63-40bf-9657-723573f05952",
+    "data": [
+      {
+        "text": "wer kann mich ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " weiterhelfen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a74d45e-6392-4477-9ddf-49a381823c58",
+    "data": [
+      {
+        "text": "Wie lautet die ",
+        "userDefined": false
+      },
+      {
+        "text": "Nummer",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "der",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Hotline?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53a2d2e5-23b2-4b74-905b-285e8662b07f",
+    "data": [
+      {
+        "text": "Wo ",
+        "userDefined": false
+      },
+      {
+        "text": "kann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich mich beraten ",
+        "userDefined": false
+      },
+      {
+        "text": "lassen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5cf59124-090a-4381-91f8-a497fc9b1729",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Telefonnummer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8477e4e6-c008-41d6-b61e-edd034037d01",
+    "data": [
+      {
+        "text": "Wen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich anrufen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6f3037e-6ff6-4e55-9c2e-ddd9a1cb5196",
+    "data": [
+      {
+        "text": "An ",
+        "userDefined": false
+      },
+      {
+        "text": "wen wende",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich mich telefonisch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "63f1886c-01e7-4c39-9e3b-82d9c9ec852f",
+  "parentId": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "rootParentId": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "name": "RKI_001_Simulation - yes",
+  "auto": true,
+  "contexts": [
+    "RKI_001_Simulation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RKI_001_Simulation.RKI_001_Simulation-yes",
+      "affectedContexts": [
+        {
+          "name": "RKI_001_Simulation-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Ok, starten wir mit dem Erstkontakt beim Empfang oder Patienten-Aufnahme. Hier erfolgen die Verdachtsabklärung und Erstmaßnahmen. Als Vorsichtsmaßnahme erhälst du einen Mund-Nasen-Schutz und wirst umgehend von anderen Personen abgesondert, wenn du Symptome (Husten, Fieber, Atemnot) zeigst und dich in einer Region mit COVID-19-Fällen aufgehalten hast oder sogar einen Fallkontakt hattest",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Möchtest du wissen, nach welchen Kriterien die Verdachtsabklärung erfolgt?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Ja"
+            },
+            {
+              "title": "Nein"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ok, starten wir mit dem Erstkontakt beim Empfang oder Patienten-Aufnahme. Hier erfolgen die Verdachtsabklärung und Erstmaßnahmen. Als Vorsichtsmaßnahme erhälst du einen Mund-Nasen-Schutz und wirst umgehend von anderen Personen abgesondert, wenn du Symptome (Husten, Fieber, Atemnot) zeigst und dich in einer Region mit COVID-19-Fällen aufgehalten hast oder sogar einen Fallkontakt hattest. Möchtest du wissen, nach welchen Kriterien die Verdachtsabklärung erfolgt? [ Hallo | Ja | Nein | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "e7a4d550-3f97-437b-883c-fcdb61b9cd22",
+  "name": "FAQ_BFG_024_Ausbruch",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

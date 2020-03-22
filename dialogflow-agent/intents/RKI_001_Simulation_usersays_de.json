@@ -1,0 +1,200 @@
+[
+  {
+    "id": "4e994a76-ed4b-411e-9d3a-0a334102a006",
+    "data": [
+      {
+        "text": "Schulung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8de1a0e5-55ba-449b-ac3a-67ef7b45c69f",
+    "data": [
+      {
+        "text": "Simulation zur Verdachtsabklärung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89d8615c-9adb-4b96-b431-ad522f838a4a",
+    "data": [
+      {
+        "text": "Simulation starten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "23a370c4-993a-411e-b3ce-5cad368f56e1",
+    "data": [
+      {
+        "text": "Simulation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b2186b83-08bf-43eb-bd51-0bf07a80adad",
+    "data": [
+      {
+        "text": "simulation sprechen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e95d46c0-de92-4eb7-a414-0b8f1167a851",
+    "data": [
+      {
+        "text": "was passiert wenn ich krank werde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b68a20d-af81-4047-a1f8-ce369d4c81d1",
+    "data": [
+      {
+        "text": "Schulungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d203c489-67ba-4d55-8382-54d63496df65",
+    "data": [
+      {
+        "text": "Frage Coronavirus info Nach schulung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8ebb4e72-38f7-44b6-9b23-94eac589a98c",
+    "data": [
+      {
+        "text": "passiert wenn ich zum Arzt musste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25878a05-7c37-4506-949a-cc6adb7ea563",
+    "data": [
+      {
+        "text": "Schulung für Verdachtsabklärung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca61bab8-ec8a-45db-aed5-2d7c055c080e",
+    "data": [
+      {
+        "text": "was passiert wenn ich ins Krankenhaus komme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37cd5ecd-5cfd-41f3-8c3a-134836590940",
+    "data": [
+      {
+        "text": "Was passiert, wenn ich krank werde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d46489a-5425-4389-823b-960c27dcee39",
+    "data": [
+      {
+        "text": "Wie ist das Vorgehen, wenn ich in ",
+        "userDefined": false
+      },
+      {
+        "text": "Krankenhaus",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " komme?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d9eb743-c5b7-4bd3-9b80-60c2dfe3fa61",
+    "data": [
+      {
+        "text": "Was passiert, wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "einen Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " aufsuchen muss?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fbc92f05-95e8-487f-9bd5-c3a90d171799",
+    "data": [
+      {
+        "text": "Schulung zur Verdachtsabklärung und folgende Maßnahmen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

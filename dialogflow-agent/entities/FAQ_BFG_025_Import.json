@@ -1,0 +1,9 @@
+{
+  "id": "c2c306ad-344c-4949-9805-0fb442f73ba0",
+  "name": "FAQ_BFG_025_Import",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

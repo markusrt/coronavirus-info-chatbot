@@ -1,0 +1,251 @@
+[
+  {
+    "id": "2eb111dd-9ea8-4106-8025-922b3177c93d",
+    "data": [
+      {
+        "text": "Vorkehrungen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cf06bd1d-6c0e-4908-9e9c-a66114d39af2",
+    "data": [
+      {
+        "text": "Welche vorkehrungen wurden getroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb34df58-d633-4df8-b00f-69bf30a932cc",
+    "data": [
+      {
+        "text": "Welche Vorkehrungen wurden getroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "753fdbbc-112e-442e-ad41-a097da3ea528",
+    "data": [
+      {
+        "text": "Welche Vorkehrungen wurden in Deutschland getroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04939114-b095-467c-9809-99e58d8c450c",
+    "data": [
+      {
+        "text": "welche weiteren Vorkehrungen wurden getroffen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aebb1a3-5b99-408f-a02e-3777eef06d3b",
+    "data": [
+      {
+        "text": "wo kann ich mich weiter informieren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0916b6b4-21ec-490d-82ba-a1fb1a1dcf6f",
+    "data": [
+      {
+        "text": "Wie soll die Bevölkerung geschützt werden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47d3a705-31e4-4e3b-8d22-47eab199ded1",
+    "data": [
+      {
+        "text": "Welche Versorge wurde getroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e4bd94-1d2f-4ff6-9a76-7cb9a45e89b5",
+    "data": [
+      {
+        "text": "Was wird  alles dagegen unternommen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22c2d86c-32de-4a60-b51e-e54c4f6e127c",
+    "data": [
+      {
+        "text": "Wer kümmert sich darum?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f34f803f-5d2d-4d18-b578-804d97441560",
+    "data": [
+      {
+        "text": "Welche Gewißheit haben wir, dass es nicht so schlimm wird?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b2eb075-a517-4950-b062-ae49038c4707",
+    "data": [
+      {
+        "text": "Wie sind wir vorbereitet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "280c742e-84b0-4d21-a48f-53ddece793a6",
+    "data": [
+      {
+        "text": "Welche Gegenmaßnahmen würden getroffen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "101818ed-cbe4-4abe-9687-76b52945be61",
+    "data": [
+      {
+        "text": "Wir ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "das Schlimmste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " abwenden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "479ac8f6-bf27-4d20-9257-712cc5c3883d",
+    "data": [
+      {
+        "text": "Wie schützt die Regierung uns?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d5a5e1c-a54c-4136-8f12-052a108cdf73",
+    "data": [
+      {
+        "text": "Welche weiteren Vorkehrungen ",
+        "userDefined": false
+      },
+      {
+        "text": "wurden",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " getroffen, um die Bevölkerung in ",
+        "userDefined": false
+      },
+      {
+        "text": "Deutschland",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zu schützen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97ddf1c1-4209-4d5c-bdcf-cff876aa9107",
+    "data": [
+      {
+        "text": "Vorkehrungen in Deutschland",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

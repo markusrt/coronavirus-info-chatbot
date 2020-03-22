@@ -1,0 +1,170 @@
+[
+  {
+    "id": "14aad397-1ec7-4946-b21d-f765be1b2b52",
+    "data": [
+      {
+        "text": "Über uns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a8b8fdb7-bfc5-4e5e-a858-7487b7b1e7ff",
+    "data": [
+      {
+        "text": "Auro services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc89b521-594a-4195-9495-4ab9bb362bb7",
+    "data": [
+      {
+        "text": "Du hast ja keine Ahnung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60e70677-0988-4aaf-870f-0f6bad73dda5",
+    "data": [
+      {
+        "text": "Du bist ganz schön schlau.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "166a5f30-74b7-4be6-bf4b-aaadefffc327",
+    "data": [
+      {
+        "text": "Was machst du in ",
+        "userDefined": false
+      },
+      {
+        "text": "deiner",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Freizeit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4ebdd9b-7d0b-4306-9c17-e3437745f772",
+    "data": [
+      {
+        "text": "Wie alt bist du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fd5034e-8abc-4c10-ba8e-1c9b6d285128",
+    "data": [
+      {
+        "text": "Wie geht ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dd4b590-29ea-42d3-a0a5-8c6fb5fda38e",
+    "data": [
+      {
+        "text": "Wie heißt Du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bb9cb17-74ee-47b2-9af4-a5ba5fc2fab4",
+    "data": [
+      {
+        "text": "Wer bist du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0220c23d-386e-4e6f-b252-9c97a95c1476",
+    "data": [
+      {
+        "text": "Ich möchte Kontakt aufnehmen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2feaec0c-bbdc-4a4d-9cf5-031659641e4c",
+    "data": [
+      {
+        "text": "Wer ist ",
+        "userDefined": false
+      },
+      {
+        "text": "AuRo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

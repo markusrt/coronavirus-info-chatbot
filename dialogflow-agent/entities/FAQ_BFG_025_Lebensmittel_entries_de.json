@@ -1,0 +1,74 @@
+[
+  {
+    "value": "Lebensmittel",
+    "synonyms": [
+      "Lebensmittel"
+    ]
+  },
+  {
+    "value": "Nahrung",
+    "synonyms": [
+      "Nahrung"
+    ]
+  },
+  {
+    "value": "Futter",
+    "synonyms": [
+      "Futter"
+    ]
+  },
+  {
+    "value": "Speise",
+    "synonyms": [
+      "Speise"
+    ]
+  },
+  {
+    "value": "Proviant",
+    "synonyms": [
+      "Proviant"
+    ]
+  },
+  {
+    "value": "Rohstoffe",
+    "synonyms": [
+      "Rohstoffe"
+    ]
+  },
+  {
+    "value": "Nahrungsmittel",
+    "synonyms": [
+      "Nahrungsmittel"
+    ]
+  },
+  {
+    "value": "Waren",
+    "synonyms": [
+      "Waren"
+    ]
+  },
+  {
+    "value": "Produkte",
+    "synonyms": [
+      "Produkte"
+    ]
+  },
+  {
+    "value": "Essen",
+    "synonyms": [
+      "Essen"
+    ]
+  },
+  {
+    "value": "Imbiss",
+    "synonyms": [
+      "Imbiss"
+    ]
+  },
+  {
+    "value": "Kost",
+    "synonyms": [
+      "Kost"
+    ]
+  }
+]

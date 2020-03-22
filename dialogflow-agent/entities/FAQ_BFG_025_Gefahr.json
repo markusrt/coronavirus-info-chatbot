@@ -1,0 +1,9 @@
+{
+  "id": "99a0f6aa-445e-4a73-8c58-d9c654c4584c",
+  "name": "FAQ_BFG_025_Gefahr",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

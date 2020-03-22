@@ -1,0 +1,71 @@
+{
+  "id": "f42f9e4d-8582-40f6-b95a-e893de52b400",
+  "parentId": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "rootParentId": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "name": "RKI_001_Simulation - no",
+  "auto": true,
+  "contexts": [
+    "RKI_001_Simulation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RKI_001_Simulation.RKI_001_Simulation-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Ok, du kannst die Schulung jederzeit wieder aufrufen.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Was möchtest du mich noch fragen?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Hallo"
+            },
+            {
+              "title": "Über uns"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ok, du kannst die Schulung jederzeit wieder aufrufen.\nWas möchtest du mich noch fragen? [ Hallo | Über uns | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

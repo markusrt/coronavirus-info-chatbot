@@ -1,0 +1,9 @@
+{
+  "id": "8df9ba92-3c4e-4264-8e95-9d55328e8f1c",
+  "name": "FAQ_BFG_026_Infektion",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

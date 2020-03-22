@@ -1,0 +1,622 @@
+[
+  {
+    "id": "6e769bd8-9bab-4c63-a005-29f179259456",
+    "data": [
+      {
+        "text": "Corona gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f627973-65fe-49a4-a635-98f443227b1b",
+    "data": [
+      {
+        "text": "Führt die Übertragung  zu unangenehm ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1726e0bc-cc64-4e14-a150-4589cbc57726",
+    "data": [
+      {
+        "text": "ist das Virus gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e55911ca-e1b5-40f0-a7a1-52515056ac5b",
+    "data": [
+      {
+        "text": "Treten schlimm Beeinträchtigung bei einer Erkrankung  auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f21b02fc-15f0-454b-8d39-a280edd3c8f0",
+    "data": [
+      {
+        "text": "Treten riskant Herausforderung bei einer Infektionskrankheit  auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aaf49700-a47a-44f1-9767-13825f685aa9",
+    "data": [
+      {
+        "text": "Ist das virus gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2715942a-022f-46e3-8c18-c64678f7625a",
+    "data": [
+      {
+        "text": "Wann verläuft eine Krankheit schädlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5904dc77-9edb-4319-8ab1-693723a5251b",
+    "data": [
+      {
+        "text": "Führt die Krankheit  zu lebensgefährlich ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7871b489-9ca7-43e5-b05d-b1ed398b5e78",
+    "data": [
+      {
+        "text": "wie gefährlich ist Corona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae3e7176-b746-4bd1-a268-be62b95bce1d",
+    "data": [
+      {
+        "text": "wie gefährlich ist eine Infektion mit dem Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8173928f-4073-4158-a5b5-bd3294171690",
+    "data": [
+      {
+        "text": "ist es Virus tödlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7706829c-f362-426e-a2b2-28ddbc8e27c1",
+    "data": [
+      {
+        "text": "wie gefährlich ist eine Infektion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ad5bf6cf-1da4-4698-8352-68c53c3399a5",
+    "data": [
+      {
+        "text": "Virus gefährlich für meine ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0937f7d3-cf86-4c9c-b260-2026744014a4",
+    "data": [
+      {
+        "text": "wie gefährlich ist das virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "5fd30089-e22b-41f8-ab6a-f82fc311d7e2",
+    "data": [
+      {
+        "text": "wie ansteckend ist das Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e0fc568-c9c5-4c6d-a697-1db504581bee",
+    "data": [
+      {
+        "text": "wie gefährlich ist die Infektionskrankheit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d66820a-d0e3-4e7b-ab3b-e7699f52de27",
+    "data": [
+      {
+        "text": "wie ",
+        "userDefined": false
+      },
+      {
+        "text": "ansteckend",
+        "alias": "faq_bfg_026_infektion",
+        "userDefined": false
+      },
+      {
+        "text": " ist das Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a2667af-c682-4d93-9ec1-eae0c9306875",
+    "data": [
+      {
+        "text": "das Virus sehr gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97e3c5ac-7fd0-46dd-868b-6986ae173ade",
+    "data": [
+      {
+        "text": "ist der Virus gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7ac64c1-07c9-4275-953f-c287a84de370",
+    "data": [
+      {
+        "text": "wie gefährlich ist es Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e386a6d6-5b4a-41b2-a46d-0ea7d8072ed0",
+    "data": [
+      {
+        "text": "wie gefährlich ist das Virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb9855ec-8090-4682-aa71-d90caca578c1",
+    "data": [
+      {
+        "text": "wie gefährlich ist dir Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "692cb476-37de-4b8b-b3e0-f34bb3bc4331",
+    "data": [
+      {
+        "text": "ist das Virus Gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b05f4277-6979-4456-ae14-0f712588be88",
+    "data": [
+      {
+        "text": "wie gefährlich ist es virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b8ff1eb-825a-4080-a7ae-46916e43d7b6",
+    "data": [
+      {
+        "text": "wie gefährlich ist das",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "769bf7e0-ac9e-4257-8049-074691553878",
+    "data": [
+      {
+        "text": "wie gefährlich ist das Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a5be260-0635-46d2-bfec-c4456ecf1dbf",
+    "data": [
+      {
+        "text": "ist das Virus tödlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6473ad2-40dd-4d0e-8c0a-e616dff96bee",
+    "data": [
+      {
+        "text": "ist das tödlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e60f8a5-77df-4e88-b62e-839f41b8440c",
+    "data": [
+      {
+        "text": "kann ich davon sterben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e0c200f-3130-490c-94a3-8d86bba839e8",
+    "data": [
+      {
+        "text": "kann ich sterben",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "053fa977-ce3e-4021-8a95-14e90fbb44cc",
+    "data": [
+      {
+        "text": "Treten ",
+        "userDefined": false
+      },
+      {
+        "text": "lebensgefährlich",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Komplikationen",
+        "alias": "FAQ_BFG_026_Komplikation",
+        "meta": "@FAQ_BFG_026_Komplikation",
+        "userDefined": true
+      },
+      {
+        "text": " bei einer ",
+        "userDefined": false
+      },
+      {
+        "text": "Erkrankung",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": "  auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe27da47-ef9b-4bed-b4d1-91cb7ddac753",
+    "data": [
+      {
+        "text": "Sind die ",
+        "userDefined": false
+      },
+      {
+        "text": "Beschwerden",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "schlimm",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3858687-6e2a-4dd7-a530-a43a362a2aff",
+    "data": [
+      {
+        "text": "Wann verläuft eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Infizierung",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tödlich",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ed60b3ab-1bc3-42b5-8589-158ca4d04c4c",
+    "data": [
+      {
+        "text": "Was ist ",
+        "userDefined": false
+      },
+      {
+        "text": "kritisch",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": "  bei einer ",
+        "userDefined": false
+      },
+      {
+        "text": "Kontamination",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e94a842-af54-4221-b3b1-52bce72388e3",
+    "data": [
+      {
+        "text": "Ist  die ",
+        "userDefined": false
+      },
+      {
+        "text": "Entzündung",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": " sehr  ",
+        "userDefined": false
+      },
+      {
+        "text": "ernst",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": " für mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f583dc19-320b-4892-b981-3f62d8ad7953",
+    "data": [
+      {
+        "text": "Führt die ",
+        "userDefined": false
+      },
+      {
+        "text": "Ansteckung",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": "  zu ",
+        "userDefined": false
+      },
+      {
+        "text": "gesundheitsschädigend",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac7a32b1-b36c-4496-979a-9b632035dec6",
+    "data": [
+      {
+        "text": "Ist eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Übertragung",
+        "alias": "FAQ_BFG_026_Infektion",
+        "meta": "@FAQ_BFG_026_Infektion",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "unangenehm",
+        "alias": "FAQ_BFG_026_gefaehrlich",
+        "meta": "@FAQ_BFG_026_gefaehrlich",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7914ee3c-b92a-436b-a8a8-6defa42d5722",
+    "data": [
+      {
+        "text": "Gefährlichkeit Infektion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

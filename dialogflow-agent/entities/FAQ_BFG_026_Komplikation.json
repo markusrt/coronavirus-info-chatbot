@@ -1,0 +1,9 @@
+{
+  "id": "f43c57b2-0049-43ad-9759-06eb58e53654",
+  "name": "FAQ_BFG_026_Komplikation",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

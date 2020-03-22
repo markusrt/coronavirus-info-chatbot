@@ -1,0 +1,36 @@
+{
+  "id": "71614b50-2a97-46e4-aa31-4806749db870",
+  "parentId": "fc1c74ba-5c43-43a7-9ffb-4265603d708c",
+  "rootParentId": "d35c82a4-7336-47cb-bdcf-af5b37625bba",
+  "name": "Coronavirus Management - Fallabklaerung - Krank - Tage - Kontakt - Risikogebiet - Final",
+  "auto": true,
+  "contexts": [
+    "CoronavirusManagement-Fallabklaerung-Krank-Tage-Kontakt-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CoronavirusManagement-Fallabklaerung-Krank-Tage-Kontakt.CoronavirusManagement-Fallabklaerung-Krank-Tage-Kontakt-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "In deinem Fall liegt ein begründeter Verdachtsfall vor. Bitte ersuche ärztliche Hilfe."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "0f2eb663-26e3-43be-9615-58a2caf654e3",
+  "name": "FAQ_BFG_025_Oberfl_Verpackung",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

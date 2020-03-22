@@ -1,0 +1,230 @@
+[
+  {
+    "id": "d1f92279-e09a-4456-b3cc-65dc8d05d55f",
+    "data": [
+      {
+        "text": "wie kann ich mich vor allen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59ddb0ab-30ff-45df-9685-4a99cf0cdfc6",
+    "data": [
+      {
+        "text": "wie schütze ich mich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "120d6374-ff41-4674-b615-93fe345ffaec",
+    "data": [
+      {
+        "text": "Wie ",
+        "userDefined": false
+      },
+      {
+        "text": "schütze",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ich mich vor dem Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56d68eba-5701-415b-9c51-118231fea794",
+    "data": [
+      {
+        "text": "wie kann man sich vor einer Ansteckung schützen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b90c3eb0-12dc-4972-a3d1-24cb9ba07054",
+    "data": [
+      {
+        "text": "wie kann ich mich schützen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "dbf589d5-4be5-466f-bcac-5c2d7b1d20bd",
+    "data": [
+      {
+        "text": "mich hat auf der Straße jemand an genießt kann es sein dass ich jetzt krank werde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0405940-0ca9-4173-acdb-b493369dbbd2",
+    "data": [
+      {
+        "text": "kannst du mir noch etwas darüber erzählen wie ich mich schützen kann",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e53db28d-a91a-4a7f-8c76-2bb9cdc22d4b",
+    "data": [
+      {
+        "text": "hilft Desinfektionsmittel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "380dacb5-b465-46bb-b46a-f7bb5f9a3076",
+    "data": [
+      {
+        "text": "wie kann man sich schützen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "decca7ea-d946-4fc1-951d-558ce23a1fef",
+    "data": [
+      {
+        "text": "wie kann ich mich gegen das Virus schützen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed9bfc8a-ae99-407b-9922-d890ec199c4c",
+    "data": [
+      {
+        "text": "Wie kann ich mich in ",
+        "userDefined": false
+      },
+      {
+        "text": "Sicherheit",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bringen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20ef2562-44e6-4685-a423-c66564d022da",
+    "data": [
+      {
+        "text": "Kann ich sicherstellen, dass ich nicht krank werde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b180d40a-8279-46e1-afe0-faf80bd79f8c",
+    "data": [
+      {
+        "text": "Wie kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ansteckung verhindern?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13da7d54-a3dc-4c29-b044-249386bb7555",
+    "data": [
+      {
+        "text": "Sind meine ",
+        "userDefined": false
+      },
+      {
+        "text": "Kinder",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sicher?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "967bfe5c-1ff5-4882-a044-8fb4eb84e2aa",
+    "data": [
+      {
+        "text": "Kann ich mich abhärten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "357cdc4d-d5cc-4098-823f-e738f017231d",
+    "data": [
+      {
+        "text": "Wie schütze ich mich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

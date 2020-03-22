@@ -1,0 +1,152 @@
+[
+  {
+    "id": "3c17e498-5c83-4d33-a481-02a21cf13424",
+    "data": [
+      {
+        "text": "darf ich reisen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c73d01f-32db-43b6-a5f7-9ae10c71cbde",
+    "data": [
+      {
+        "text": "kann ich nach Afrika reisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4d3fcc1d-cd4a-4c18-8160-61a19ce9ef42",
+    "data": [
+      {
+        "text": "es gefährlich nach Afrika zu reisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0360db8a-56e0-47ff-acdf-5aae6d709de1",
+    "data": [
+      {
+        "text": "wohin kann ich reisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "defc868f-ea68-4fc0-a4cc-05e51fe3a060",
+    "data": [
+      {
+        "text": "was sind die Empfehlung für Reisende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa08c49a-4957-41f2-8ae3-6d34654ab77f",
+    "data": [
+      {
+        "text": "gibt es Sicherheitshinweise für Reisen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a6ee631-b33d-4a52-8210-461c69745f96",
+    "data": [
+      {
+        "text": "Nachrichten aus aller ",
+        "userDefined": false
+      },
+      {
+        "text": "Welt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " abspielen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2eba264c-e5bf-46bf-9353-73eb75053aa9",
+    "data": [
+      {
+        "text": "Welche Länder sind gefährlich?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0900c42e-e39a-44ab-9b02-7c6f1a3a0a20",
+    "data": [
+      {
+        "text": "Gibt es Sicherheitshinweise?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5aa3c1b-a06b-42bf-8674-397938022635",
+    "data": [
+      {
+        "text": "Wohin kann ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Reise",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f315e724-90f0-4c91-b804-dee776642088",
+    "data": [
+      {
+        "text": "Reisende Risikogebiete",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

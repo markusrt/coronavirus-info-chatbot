@@ -1,0 +1,59 @@
+[
+  {
+    "id": "731455ce-97f0-4bea-86fa-e6f25ad51ddc",
+    "data": [
+      {
+        "text": "Ich hatte Kontakt mit infizierten Personen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "286476f4-c881-4b7c-9ccb-e939ee41aa29",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Sorge",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mich infiziert zu haben?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f16892ad-83c4-4c7f-95cc-b99680f5780c",
+    "data": [
+      {
+        "text": "Was muss ich beachten, wenn ich zurückkehre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "872cd58a-22b6-4830-addd-ed3115da5cdd",
+    "data": [
+      {
+        "text": "Personen Regionen Rückkehrer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,276 @@
+[
+  {
+    "id": "f14c45c7-cce4-4bb2-b116-1646cf56c620",
+    "data": [
+      {
+        "text": "Wann ist das Virus das erste mal aufgetreten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bcbb33a6-cbeb-45c4-89cc-c3fc419b50b9",
+    "data": [
+      {
+        "text": "wo ist das ausgebrochen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac56d88d-c4b2-4b74-94f0-6970e4cc3335",
+    "data": [
+      {
+        "text": "Wo ist das ausgebrochen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "981411af-daa7-4273-8945-ccae23584b3c",
+    "data": [
+      {
+        "text": "Wo fand ",
+        "userDefined": false
+      },
+      {
+        "text": "der erste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Ausbruch des Virus statt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b07418df-9f65-4708-af2c-84a87ba0f659",
+    "data": [
+      {
+        "text": "Und wo ist das zum ersten mal aufgetreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84fc74c6-9a01-4b9a-b53c-e016eca92d13",
+    "data": [
+      {
+        "text": "Wie entsteht das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b9a841cd-754a-432c-8472-c3be8ba1b23c",
+    "data": [
+      {
+        "text": "Wo ist Wuhan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ec0aca00-b0ed-47ce-a4f4-972f42c5102b",
+    "data": [
+      {
+        "text": "wo ist das hier ist das erste Mal ausgebrochen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84cc5e33-f166-4685-a363-9dc2ffffdddb",
+    "data": [
+      {
+        "text": "was ist der ",
+        "userDefined": false
+      },
+      {
+        "text": "Ursprung",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " der Krankheit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5264419a-64bd-4438-af4d-fd4cb0942e3e",
+    "data": [
+      {
+        "text": "wo wo ist die Krankheit das erste mal aufgetreten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "91cb0520-4093-4036-a1bb-20ec05f3b0d5",
+    "data": [
+      {
+        "text": "wann ist es zu ersten Mal aufgetreten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe12eea7-befa-4a8f-a44f-f98e1f224be6",
+    "data": [
+      {
+        "text": "Woher stammt das?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72bac252-0a18-413c-b8d0-1b1ea685b49b",
+    "data": [
+      {
+        "text": "Wer war der erste Patient?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "377a53f6-995d-4dcd-85a3-bc4ff3c62f11",
+    "data": [
+      {
+        "text": "Sind die Chinesen daran Schuld?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e8a3a62-c258-4a1f-bfb5-d905e051feb9",
+    "data": [
+      {
+        "text": "Wo ist  es das ",
+        "userDefined": false
+      },
+      {
+        "text": "erste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mal aufgetreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "086b354e-056d-4bf8-89a6-c5890c8c437b",
+    "data": [
+      {
+        "text": "Kommt das von ",
+        "userDefined": false
+      },
+      {
+        "text": "einem Markt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a409c1e-35bc-47f6-9567-84e5bd3c9ed3",
+    "data": [
+      {
+        "text": "Kommt das von Wildtiere bzw. Organe von anderen Tieren oder Reptilien?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "851ac876-4132-46a4-a13e-00d9574e3836",
+    "data": [
+      {
+        "text": "Wo kommt das her?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e2dcbde-c4df-458a-b8c6-2012e5afa80a",
+    "data": [
+      {
+        "text": "Wo liegt der Ursprung des ",
+        "userDefined": false
+      },
+      {
+        "text": "Ausbruchs",
+        "alias": "FAQ_BFG_024_Ausbruch",
+        "meta": "@FAQ_BFG_024_Ausbruch",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d366ded1-c2cb-4467-b121-66b6d583d396",
+    "data": [
+      {
+        "text": "Quelle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a74fbc3e-4ccc-4189-a6eb-a182e0f63e78",
+    "data": [
+      {
+        "text": "was kann ich dich fragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "046e5306-87d2-468e-97dd-fb9e35a45cb2",
+    "data": [
+      {
+        "text": "Quellen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "501f5ee3-56fd-4ce2-b04b-1aef1861e9e4",
+    "data": [
+      {
+        "text": "Woher kommen die Informationen in diesem Assistent?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dae0aee5-6bd2-4588-a817-ef2365cba298",
+    "data": [
+      {
+        "text": "Welche Quellen nutzt du?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

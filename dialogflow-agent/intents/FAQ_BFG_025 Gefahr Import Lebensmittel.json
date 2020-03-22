@@ -1,0 +1,92 @@
+{
+  "id": "2c0aa2fd-782e-4226-8cc2-a1ca2f31aa4e",
+  "name": "FAQ_BFG_025 Gefahr Import Lebensmittel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0adf139d-411b-41fc-bd28-fc8704886640",
+          "required": false,
+          "dataType": "@FAQ_BFG_025_Gefahr",
+          "name": "FAQ_BFG_025_Gefahr",
+          "value": "$FAQ_BFG_025_Gefahr",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "8535ad2a-0e27-4640-ab29-27fa88e8d3c4",
+          "required": false,
+          "dataType": "@FAQ_BFG_025_importieren",
+          "name": "FAQ_BFG_025_importieren",
+          "value": "$FAQ_BFG_025_importieren",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "382b945f-bdfc-43e8-89ad-81e968f5c363",
+          "required": false,
+          "dataType": "@FAQ_BFG_025_Lebensmittel",
+          "name": "FAQ_BFG_025_Lebensmittel",
+          "value": "$FAQ_BFG_025_Lebensmittel",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "0d66f905-26a4-40f6-bc43-7da175360cba",
+          "required": false,
+          "dataType": "@FAQ_BFG_025_Oberfl_Verpackung",
+          "name": "FAQ_BFG_025_Oberfl_Verpackung",
+          "value": "$FAQ_BFG_025_Oberfl_Verpackung",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6cba3816-b0b6-4117-8805-0311f9ef7dba",
+          "required": false,
+          "dataType": "@FAQ_BFG_025_anfassen",
+          "name": "FAQ_BFG_025_anfassen",
+          "value": "$FAQ_BFG_025_anfassen",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

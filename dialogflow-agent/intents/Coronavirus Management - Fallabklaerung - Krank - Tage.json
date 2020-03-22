@@ -1,0 +1,84 @@
+{
+  "id": "8803984c-24ec-4291-aa22-42dc26189345",
+  "parentId": "4365b29a-1c1d-48c6-b9c7-07d3de8eace5",
+  "rootParentId": "d35c82a4-7336-47cb-bdcf-af5b37625bba",
+  "name": "Coronavirus Management - Fallabklaerung - Krank - Tage",
+  "auto": true,
+  "contexts": [
+    "CoronavirusManagement-Fallabklaerung-Krank-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "yes.CoronavirusManagement-Fallabklaerung-Krank-Tage",
+      "affectedContexts": [
+        {
+          "name": "CoronavirusManagement-Fallabklaerung-Krank-Tage-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5e437409-f0e7-41ee-bf93-96331e608836",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "Tage",
+          "value": "$Tage",
+          "prompts": [
+            {
+              "lang": "de",
+              "value": "Bitte die Anzahl der Tage als Zahl angeben."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Es ist leider ein Fehler aufgetreten.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Hallo"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Es ist leider ein Fehler aufgetreten."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

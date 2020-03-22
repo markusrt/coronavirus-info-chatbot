@@ -1,0 +1,125 @@
+{
+  "id": "cd980438-56ed-4bbb-9c37-29b0fd932ceb",
+  "name": "About us",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Dieser Assistent wird von AuRo Services bereitgestellt. AuRo ist eine Marke von Patrick Johns und die Abkürzung für \"Automation \u0026 Robotics\". Meine Mission ist es Kunden in diesen innovativen Themen weiterzuentwickeln. Aus dieser Motivation heraus habe ich die Entwicklung eines Sprachassistent gestartet, der Unternehmen im Umgang mit dem Coronavirus unterstützt. Weitere Information findest du auf der Webseite http://auro.services."
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Was kann ich noch für dich tun?"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "title": "Bitte wählen...",
+          "replies": [
+            "Hallo",
+            "Quellen",
+            "Dialog Ende"
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Dieser Assistent wurde initial von AuRo Services bereitgestellt. AuRo ist eine Marke von Patrick Johns und die Abkürzung für \"Automation \u0026 Robotics\" (http://auro.services/). Im Rahmen des #WirVsVirus Hackathons wurde er erweitert und um die Funktion der Fallabklärung ergänzt.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "Was kann ich noch für dich tun?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Wie kann ich dir noch weiterhelfen?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Was magst du mich noch fragen?",
+              "ssml": "",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "image": {
+            "url": "https://wirvsvirushackathon.org/wp-content/uploads/2020/03/Hackathon_slogan.png",
+            "accessibilityText": "WirVsVirus"
+          },
+          "buttons": [
+            {
+              "title": "WirVsVirus",
+              "openUrlAction": {
+                "url": "https://devpost.com/software/039_staatliche_kommunikation_coronavirus_info_chatbot",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Hallo"
+            },
+            {
+              "title": "Quellen"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Dieser Assistent wurde initial von AuRo Services bereitgestellt. AuRo ist eine Marke von Patrick Johns und die Abkürzung für \"Automation \u0026 Robotics\". Im Rahmen des #WirVsVirus Hackathons wurde sie erweitert und um die Funktion der Fallabklärung ergänzt. Weitere Infos findest du unter https://devpost.com/software/039_staatliche_kommunikation_coronavirus_info_chatbot  bzw. unter http://auro.services/. Was kann ich noch für dich tun? [ Hallo | Quellen | Dialog Ende  ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

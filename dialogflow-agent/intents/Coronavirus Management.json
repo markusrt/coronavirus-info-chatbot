@@ -1,0 +1,80 @@
+{
+  "id": "d35c82a4-7336-47cb-bdcf-af5b37625bba",
+  "name": "Coronavirus Management",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "CoronavirusManagement-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "CoronavirusManagement-followup-2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Du hast das Coronavirus Management aufgerufen. Ich kann dich bei der Fallabklärung und der Selbst-Quarantäne unterstützen.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Was magst du hiervon starten?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Hallo"
+            },
+            {
+              "title": "Fallabklärung"
+            },
+            {
+              "title": "Quarantäne"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Du hast das Coronavirus Management aufgerufen. Ich kann dich bei der Fallabklärung und der Selbst-Quarantäne unterstützen. Was magst du hiervon starten? [ Hallo | Fallabklärung | Quarantäne | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

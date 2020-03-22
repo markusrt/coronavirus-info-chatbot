@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1c77f036-37d1-40de-9a39-73904190bf6f",
+    "data": [
+      {
+        "text": "5",
+        "alias": "Tage",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "022ded14-cc87-4acc-8b34-4cc75288fab8",
+    "data": [
+      {
+        "text": "Ich bin seit ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "Tage",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " Tagen krank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

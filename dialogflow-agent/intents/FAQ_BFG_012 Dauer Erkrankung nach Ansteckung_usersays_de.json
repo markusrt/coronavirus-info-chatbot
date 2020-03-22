@@ -1,0 +1,185 @@
+[
+  {
+    "id": "4b6889b8-005a-4541-a14c-3a65c9d81b13",
+    "data": [
+      {
+        "text": "wie lang ist die Inkubationszeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c08b7372-65da-4e1c-b25c-c38b9ddd3b42",
+    "data": [
+      {
+        "text": "wie ist die Inkubationszeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58fc4d80-c274-4acf-b368-4bc13eee4a7d",
+    "data": [
+      {
+        "text": "Wie lange ist die Inkubationszeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "745999eb-cd0f-4da2-b789-09020744f1e4",
+    "data": [
+      {
+        "text": "Wie lange dauert es, bis die Erkrankung nach Ansteckung ausbricht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ae899f3-c75d-4c0b-9f2f-5795bff85b5a",
+    "data": [
+      {
+        "text": "Gibt es Zeitspanne in der man erkrankt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1ba0592-dc82-4df9-a3a0-708c76cc463c",
+    "data": [
+      {
+        "text": "Wie lang ist die Inkubationszeit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "011cc9e9-019e-4b11-a9ba-3d49658fe58b",
+    "data": [
+      {
+        "text": "Gibt es Vorzeichen für die Erkrankung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f7fe44ce-04db-4605-860e-9b7965fad79c",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "erste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Anzeichen der Krankheit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c4e4451-1694-4ffc-a241-a2ed4e0fd0c3",
+    "data": [
+      {
+        "text": "Ab ",
+        "userDefined": false
+      },
+      {
+        "text": "wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " treten Symptome auf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10a07902-e5e9-4698-b2c9-5aa7575f6192",
+    "data": [
+      {
+        "text": "Wie lang ist der  Zeitraum bis Beschwerden auftreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aafd7f4f-42b6-4605-b4df-a9849d82cbff",
+    "data": [
+      {
+        "text": "Wie lange dauerte es, bis man krank wird?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c878622a-0d9e-4363-a8bf-b4b56f758a85",
+    "data": [
+      {
+        "text": "Wie lang ist die Zeit zwischen Infektion und dem Auftreten ",
+        "userDefined": false
+      },
+      {
+        "text": "der ersten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Symptome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f70aa3b-5f04-4b23-9755-fd2a30826c09",
+    "data": [
+      {
+        "text": "Dauer Erkrankung nach Ansteckung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

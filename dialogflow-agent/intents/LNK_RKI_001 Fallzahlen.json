@@ -1,0 +1,113 @@
+{
+  "id": "4fb2d14a-b1ac-4633-b4e5-efaa649edde3",
+  "name": "LNK_RKI_001 Fallzahlen",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Die aktuellen Informationen zu Fallzahlen findest du unter dem folgendem Link, der vom Robert Koch Institut bereitgestellt wird.\nhttps://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Was möchtest du mich noch fragen?"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "title": "Bitte wählen...",
+          "replies": [
+            "Quellen",
+            "Über uns",
+            "Dialog Ende"
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Die aktuellen Informationen zu Fallzahlen findest du unter folgendem Link, der vom Robert Koch Institut bereitgestellt wird.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Was möchtest du mich noch fragen?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "subtitle": "Fallzahlen in Deutschland und weltweit",
+          "formattedText": "siehe...",
+          "image": {
+            "url": "https://www.auroguide.net/wp-content/uploads/2019/12/information-2160912.png",
+            "accessibilityText": "Fallzahlen"
+          },
+          "buttons": [
+            {
+              "title": "Robert Koch Institut",
+              "openUrlAction": {
+                "url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Quellen"
+            },
+            {
+              "title": "Über uns"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die aktuellen Informationen zu Fallzahlen findest du unter dem folgendem Link, der vom Robert Koch Institut bereitgestellt wird.\nhttps://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html\nWas möchtest du mich noch fragen? [ Quellen | Über uns | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

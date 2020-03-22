@@ -1,0 +1,88 @@
+[
+  {
+    "id": "a1e13b5f-a956-4232-b797-7eca0d553723",
+    "data": [
+      {
+        "text": "wo informieren sich Ärzte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9ed79cd0-2c9f-46eb-951b-37b5eb31951c",
+    "data": [
+      {
+        "text": "wo erhalten Ärzte ihre Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dab419dc-0b03-4120-8dbd-1f4ed1f190a1",
+    "data": [
+      {
+        "text": "Orientierungshilfe für ",
+        "userDefined": false
+      },
+      {
+        "text": "Ärzte",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65d58e7d-10bb-4676-9cf8-f98d79eb6da8",
+    "data": [
+      {
+        "text": "Flussschema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56c234ae-81e5-4702-9c05-c1aa1ed51678",
+    "data": [
+      {
+        "text": "Wo informieren sich ",
+        "userDefined": false
+      },
+      {
+        "text": "Ärzte",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65b3e08d-1be2-43eb-926d-728a2df7a8cb",
+    "data": [
+      {
+        "text": "Ärzte Kliniken Informationen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

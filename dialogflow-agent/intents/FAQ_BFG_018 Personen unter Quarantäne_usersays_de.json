@@ -1,0 +1,110 @@
+[
+  {
+    "id": "eaa40f2b-f584-4de4-9fbf-5920dc393013",
+    "data": [
+      {
+        "text": "quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "093332bc-ef87-444e-bdbe-7f422da3d29d",
+    "data": [
+      {
+        "text": "wie lange kann man sich anstecken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "09d1c05e-edb0-4f09-9f52-aeee4a669618",
+    "data": [
+      {
+        "text": "Ich war an ",
+        "userDefined": false
+      },
+      {
+        "text": "einem Ort",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", der ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " unter Quarantäne steht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a08a00f-dcac-4c0e-a78c-0ae015ed1c3e",
+    "data": [
+      {
+        "text": "Welche Vorsichtsmaßnahme gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "889eb490-9aee-487e-94d0-62807716b896",
+    "data": [
+      {
+        "text": "Was sollten Personen tun, die vor kurzem an ",
+        "userDefined": false
+      },
+      {
+        "text": "einem Ort waren",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", der ",
+        "userDefined": false
+      },
+      {
+        "text": "jetzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " unter Quarantäne steht?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2724495d-b781-496c-9b73-7db342aca794",
+    "data": [
+      {
+        "text": "Personen unter Quarantäne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "ae99f7be-ea53-46b8-bca3-e3fb30593276",
+    "data": [
+      {
+        "text": "wann ist es Virus zuerst aufgetreten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a38780-786d-4eb2-96d1-c989d8d66f36",
+    "data": [
+      {
+        "text": "wo ist es entstanden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bee46c9-96c3-4e78-8679-a09363235cad",
+    "data": [
+      {
+        "text": "An welchem Tag kam es zum Zwischenfall?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96c63ab7-edf4-4db5-87f3-f7b00b1f046b",
+    "data": [
+      {
+        "text": "Wo ist die Krankheit entstanden?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2257abf3-4c41-4d95-a6f2-7660cd67e53f",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ist das zuerst aufgetreten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "061e2146-a444-452d-a808-4415ac5e5843",
+    "data": [
+      {
+        "text": "Wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " kam die ",
+        "userDefined": false
+      },
+      {
+        "text": "erste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Information über den Ausbruch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea933cba-26dd-4c44-8f8d-8377959f9a15",
+    "data": [
+      {
+        "text": "Erste Information Ausbruch",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

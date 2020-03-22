@@ -1,0 +1,154 @@
+{
+  "id": "6943dc5a-7a99-48eb-a158-84d5e6314769",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Hallo! Dieser Assistent kann dich beim Umgang mit dem Coronavirus unterstützen. Ich biete einen alternativen Zugang zu wichtigen Informationen und öffentlichen, vertrauenswürdigen Quellen. Sage \"Schulung\" oder stelle mir eine allgemeine Frage zum Thema Coronavirus."
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "title": "Bitte wählen...",
+          "replies": [
+            "Schulung",
+            "Quellen",
+            "Über uns",
+            "Dialog Ende"
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Hallo! Dieser Assistent kann dich beim Umgang mit dem Coronavirus unterstützen. Ich biete einen alternativen Zugang zu wichtigen Informationen und öffentlichen, vertrauenswürdigen Quellen. Sage \"Coronavirus Management\" oder stelle mir eine allgemeine Frage zum Thema Coronavirus.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "browse_carousel_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "items": [
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.auroguide.net/2020/auro-bot-content/coronavirus-auro-bot-content/bundesgesundheitsministerium-zum-aktuellen-stand/amp/",
+                "urlTypeHint": "AMP_CONTENT"
+              },
+              "title": "Aktueller Stand",
+              "description": "Video Quelle: Bundesgesundheitsministerium",
+              "image": {
+                "url": "https://www.auroguide.net/wp-content/uploads/2020/03/businessman-3105871_1920.jpg",
+                "accessibilityText": "Video"
+              }
+            },
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.auroguide.net/2020/auro-bot-content/coronavirus-auro-bot-content/fragen-und-antworten-zum-coronavirus/amp/",
+                "urlTypeHint": "AMP_CONTENT"
+              },
+              "title": "Fragen und Antworten",
+              "description": "Video  Quelle: Bundesgesundheitsministerium",
+              "image": {
+                "url": "https://www.auroguide.net/wp-content/uploads/2020/03/turn-on-2925962_1920.jpg",
+                "accessibilityText": "Video"
+              }
+            },
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.auroguide.net/2020/auro-bot-content/coronavirus-auro-bot-content/coronavirus-info-assistent/amp/",
+                "urlTypeHint": "AMP_CONTENT"
+              },
+              "title": "Coronavirus Info",
+              "description": "Was kann der Assistent und warum kann er nicht mehr?",
+              "image": {
+                "url": "https://www.auroguide.net/wp-content/uploads/2019/12/clientinfo.jpg",
+                "accessibilityText": "Video"
+              }
+            },
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "http://coronavirus.management",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "Coronavirus Management",
+              "description": "Wie Unterstützt der Assistent das Gesundheitswesen?",
+              "image": {
+                "url": "https://www.auroguide.net/wp-content/uploads/2020/03/businessman-3075827_1920.jpg",
+                "accessibilityText": "Webseite Coronavirus.Management"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Coronavirus Management"
+            },
+            {
+              "title": "Quellen"
+            },
+            {
+              "title": "Über uns"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Hallo! Dieser Assistent kann dich beim Umgang mit dem Coronavirus unterstützen. Ich biete einen alternativen Zugang zu wichtigen Informationen und öffentlichen, vertrauenswürdigen Quellen. Sage \"Schulung\" oder stelle mir eine allgemeine Frage zum Thema Coronavirus. [ Schulung | Quellen | Über uns | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,127 @@
+{
+  "id": "eb1914c9-8df3-4e1c-93c1-cc4c9a7e38a6",
+  "name": "Source",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen, vorgefertigten Antworten aus vertrauenswürdigen Quellen. Unternehmen können darüber hinaus das Coronavirus Management nutzen, um schnell und überall verfügbar Firmen-spezifische Informationen bereitzustellen. Siehe auch https://www.bundesgesundheitsministerium.de/coronavirus.html"
+        },
+        {
+          "type": 0,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "speech": "Was magst du mich noch fragen?"
+        },
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "de",
+          "condition": "",
+          "title": "Bitte wählen...",
+          "replies": [
+            "Hallo",
+            "Über uns",
+            "Dialog Ende"
+          ]
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen, vorgefertigten Antworten aus vertrauenswürdigen Quellen. Du kannst darüber hinaus das Coronavirus Management nutzen, um durch Fallabklärung und Quarantänebetreuung das Gesundheitswesen zu unterstützen.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "Was kann ich noch für dich tun?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Wie kann ich dir noch weiterhelfen?",
+              "ssml": "",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "Was magst du mich noch fragen?",
+              "ssml": "",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "subtitle": "Bundesministerium für Gesundheit",
+          "formattedText": "Wissenbasis mit sehr ausführlichen FAQs und vielen weiterführenden Links",
+          "image": {
+            "url": "",
+            "accessibilityText": ""
+          },
+          "buttons": [
+            {
+              "title": "Bundesministerium",
+              "openUrlAction": {
+                "url": "https://www.bundesgesundheitsministerium.de/coronavirus.html",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Hallo"
+            },
+            {
+              "title": "Über uns"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen, vorgefertigten Antworten aus vertrauenswürdigen Quellen. Du kannst darüber hinaus das Coronavirus Management nutzen, um durch Fallabklärung und Quarantänebetreuung das Gesundheitswesen zu unterstützen. Siehe auch https://www.bundesgesundheitsministerium.de/coronavirus.html\nWas magst du mich noch fragen? [ Hallo | Über uns | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

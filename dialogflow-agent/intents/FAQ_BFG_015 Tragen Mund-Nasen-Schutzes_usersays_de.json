@@ -1,0 +1,104 @@
+[
+  {
+    "id": "21ee1a94-3c91-403c-8113-aa0afffa8294",
+    "data": [
+      {
+        "text": "hilft ein Mundschutz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "19bf5562-8fc0-4a62-8fd4-2697d8f95b3c",
+    "data": [
+      {
+        "text": "muss ich einen Mundschutz tragen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a47589ff-175a-41f8-a418-4b53b78510a0",
+    "data": [
+      {
+        "text": "Ist das Tragen eines Mund-Nasen-Schutzes in der Allgemeinbevölkerung zum Schutz vor akuten respiratorischen Infektionen sinnvoll?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b930ba9-aa97-4d75-b7a8-7d18cac3a1b2",
+    "data": [
+      {
+        "text": "Brauche ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Gesichtsmaske?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c3f041c-d551-4b1f-b102-1b15f213089f",
+    "data": [
+      {
+        "text": "Hilft ",
+        "userDefined": false
+      },
+      {
+        "text": "ein",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Mundschutz?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dd65369-09bd-44d7-b3bb-cc9ffa1f31a2",
+    "data": [
+      {
+        "text": "Was soll ich tun, wenn ich krank bin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96bb0d24-987f-4be8-ad8a-2f6feddda34c",
+    "data": [
+      {
+        "text": "Tragen Mund-Nasen-Schutzes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

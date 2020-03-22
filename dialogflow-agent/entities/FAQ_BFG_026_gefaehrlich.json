@@ -1,0 +1,9 @@
+{
+  "id": "d9cfe391-2598-48a2-a5c8-a3377d357858",
+  "name": "FAQ_BFG_026_gefaehrlich",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

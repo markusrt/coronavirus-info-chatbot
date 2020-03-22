@@ -1,0 +1,77 @@
+{
+  "id": "d65bb19c-3fd4-44e5-b33a-a92148fb0664",
+  "parentId": "fde123d6-47f5-49c1-9f71-8a0dee18c5e2",
+  "rootParentId": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "name": "RKI_001_Simulation - yes - yes - yes",
+  "auto": true,
+  "contexts": [
+    "RKI_001_Simulation-yes-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RKI_001_Simulation.RKI_001_Simulation-yes.RKI_001_Simulation-yes-yes.RKI_001_Simulation-yes-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "RKI_001_Simulation-yes-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Ok, als nächstes wird anhand von der schwere der Erkrankung, Risikofaktoren und dem Umfeld entschieden, ob ein ambulantes Management mit Kontaktreduktion im häuslichen Umfeld möglich ist. Bei der stationären Einweisung wird das Krankenhaus informiert und der Transport im Rettungswagen mit Infektionsschutzset organisiert. In beiden Fällen wird eine Diagnostik mit Naso-/Oropharyngealabstrich, der zum Test ans Labor geht, gemacht.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Möchtest du das Vorgehen verstehen, wenn ein vom laborbestätigter COVID-19-Fall vorliegt?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Ja"
+            },
+            {
+              "title": "Nein"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ok, als nächstes wird anhand von der schwere der Erkrankung, Risikofaktoren und dem Umfeld entschieden, ob ein ambulantes Management mit Kontaktreduktion im häuslichen Umfeld möglich ist. Bei der stationären Einweisung wird das Krankenhaus informiert und der Transport im Rettungswagen mit Infektionsschutzset organisiert. In beiden Fällen wird eine Diagnostik mit Naso-/ Oropharyngealabstrich, der zum Test ans Labor geht, gemacht. Möchtest du das Vorgehen verstehen, wenn ein vom laborbestätigter COVID-19-Fall vorliegt?  [ Ja | Nein | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

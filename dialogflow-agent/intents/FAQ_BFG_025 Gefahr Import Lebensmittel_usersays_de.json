@@ -1,0 +1,496 @@
+[
+  {
+    "id": "b46b0078-4c88-4bdc-8502-fac3f06e8d87",
+    "data": [
+      {
+        "text": "Ist anfassen eines  Oberfläche vielleicht ein Gefahr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc62599a-b775-4827-8e5b-372947f1b4c3",
+    "data": [
+      {
+        "text": "Bedeutete dieses eine Bedrohung durch einschmuggeln  von Futter",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "818965c4-6f37-4ae0-bf13-2278b67cb4db",
+    "data": [
+      {
+        "text": "Oberflächen",
+        "alias": "faq_bfg_025_oberfl_verpackung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92ff643e-9527-470b-b2c4-7f028f394c9f",
+    "data": [
+      {
+        "text": "kann ich mich über ",
+        "userDefined": false
+      },
+      {
+        "text": "Oberflächen",
+        "alias": "FAQ_BFG_025_Oberfl_Verpackung",
+        "meta": "@FAQ_BFG_025_Oberfl_Verpackung",
+        "userDefined": false
+      },
+      {
+        "text": " anstecken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c248c190-3d64-4f02-a83d-706a357f8882",
+    "data": [
+      {
+        "text": "Frage nach ",
+        "userDefined": false
+      },
+      {
+        "text": "Oberflächen",
+        "alias": "faq_bfg_025_oberfl_verpackung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34a6c388-c845-42f4-9ddd-a7310595d974",
+    "data": [
+      {
+        "text": "Gibt es ein Gefahr durch Proviant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff41285c-aeb6-4695-82c6-2f7fdad9cc62",
+    "data": [
+      {
+        "text": "kann das Virus von Gegenständen übertragen werden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6074ad95-cb50-4626-8e0e-5969bd058cb7",
+    "data": [
+      {
+        "text": "darf ich noch Lebensmittel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "578a86ff-1dfa-4086-9434-df4f96b500b8",
+    "data": [
+      {
+        "text": "kann ich mich bei Lebensmitteln anstecken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2867791-3f77-44d8-ba97-e16b7139bb13",
+    "data": [
+      {
+        "text": "sind ",
+        "userDefined": false
+      },
+      {
+        "text": "importierte",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Lebensmittel aus China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " gefährlich",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88eb3fe5-158d-490b-a291-cb1f429dd9e1",
+    "data": [
+      {
+        "text": "Was passiert wenn ich ein ",
+        "userDefined": false
+      },
+      {
+        "text": "Paket",
+        "alias": "FAQ_BFG_025_Oberfl_Verpackung",
+        "meta": "@FAQ_BFG_025_Oberfl_Verpackung",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anrühren",
+        "alias": "FAQ_BFG_025_anfassen",
+        "meta": "@FAQ_BFG_025_anfassen",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ca52e54-41d4-46c6-85f1-cdc5b6c5896b",
+    "data": [
+      {
+        "text": "Ist ",
+        "userDefined": false
+      },
+      {
+        "text": "nutzen",
+        "alias": "FAQ_BFG_025_anfassen",
+        "meta": "@FAQ_BFG_025_anfassen",
+        "userDefined": true
+      },
+      {
+        "text": " eines  ",
+        "userDefined": false
+      },
+      {
+        "text": "Karton",
+        "alias": "FAQ_BFG_025_Oberfl_Verpackung",
+        "meta": "@FAQ_BFG_025_Oberfl_Verpackung",
+        "userDefined": true
+      },
+      {
+        "text": " vielleicht ein ",
+        "userDefined": false
+      },
+      {
+        "text": "Gefahr",
+        "alias": "FAQ_BFG_025_Gefahr",
+        "meta": "@FAQ_BFG_025_Gefahr",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e41540a5-ce51-43b6-8c85-51cff34ea31c",
+    "data": [
+      {
+        "text": "Was ist, wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "Gepäck",
+        "alias": "FAQ_BFG_025_Oberfl_Verpackung",
+        "meta": "@FAQ_BFG_025_Oberfl_Verpackung",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tragen",
+        "alias": "FAQ_BFG_025_anfassen",
+        "meta": "@FAQ_BFG_025_anfassen",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19e4d57d-78a3-43fb-b7e7-ea80e6d2bd62",
+    "data": [
+      {
+        "text": "Kann ich eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Verpackung",
+        "alias": "FAQ_BFG_025_Oberfl_Verpackung",
+        "meta": "@FAQ_BFG_025_Oberfl_Verpackung",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "berühren",
+        "alias": "FAQ_BFG_025_anfassen",
+        "meta": "@FAQ_BFG_025_anfassen",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab135cc5-c343-422d-9502-df06e8313d38",
+    "data": [
+      {
+        "text": "Darf man eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Oberfläche",
+        "alias": "FAQ_BFG_025_Oberfl_Verpackung",
+        "meta": "@FAQ_BFG_025_Oberfl_Verpackung",
+        "userDefined": true
+      },
+      {
+        "text": " ohne ",
+        "userDefined": false
+      },
+      {
+        "text": "Furcht",
+        "alias": "FAQ_BFG_025_Gefahr",
+        "meta": "@FAQ_BFG_025_Gefahr",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "anfassen",
+        "alias": "FAQ_BFG_025_anfassen",
+        "meta": "@FAQ_BFG_025_anfassen",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "762b7f3f-12bf-4a42-837e-e6c002f7ba99",
+    "data": [
+      {
+        "text": "Bedeutete dieses eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Gefährdung",
+        "alias": "FAQ_BFG_025_Gefahr",
+        "meta": "@FAQ_BFG_025_Gefahr",
+        "userDefined": true
+      },
+      {
+        "text": " durch ",
+        "userDefined": false
+      },
+      {
+        "text": "Einschleusen",
+        "alias": "FAQ_BFG_025_importieren",
+        "meta": "@FAQ_BFG_025_importieren",
+        "userDefined": true
+      },
+      {
+        "text": "  von ",
+        "userDefined": false
+      },
+      {
+        "text": "Speise",
+        "alias": "FAQ_BFG_025_Lebensmittel",
+        "meta": "@FAQ_BFG_025_Lebensmittel",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9b790d8-e954-4d36-87a0-d98d053f29b6",
+    "data": [
+      {
+        "text": "Ist unser ",
+        "userDefined": false
+      },
+      {
+        "text": "Futter",
+        "alias": "FAQ_BFG_025_Lebensmittel",
+        "meta": "@FAQ_BFG_025_Lebensmittel",
+        "userDefined": true
+      },
+      {
+        "text": "  einer ",
+        "userDefined": false
+      },
+      {
+        "text": "Bedrohung",
+        "alias": "FAQ_BFG_025_Gefahr",
+        "meta": "@FAQ_BFG_025_Gefahr",
+        "userDefined": true
+      },
+      {
+        "text": "  ausgesetzt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08a38820-8d14-4c0d-a638-6ccabd1c5abe",
+    "data": [
+      {
+        "text": "Gibt es ein ",
+        "userDefined": false
+      },
+      {
+        "text": "Risiko",
+        "alias": "FAQ_BFG_025_Gefahr",
+        "meta": "@FAQ_BFG_025_Gefahr",
+        "userDefined": true
+      },
+      {
+        "text": " durch ",
+        "userDefined": false
+      },
+      {
+        "text": "Nahrung",
+        "alias": "FAQ_BFG_025_Lebensmittel",
+        "meta": "@FAQ_BFG_025_Lebensmittel",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab82e15e-c8bb-4556-96eb-ff176fc60c55",
+    "data": [
+      {
+        "text": "Besteht eine ",
+        "userDefined": false
+      },
+      {
+        "text": "Gefahr",
+        "alias": "FAQ_BFG_025_Gefahr",
+        "meta": "@FAQ_BFG_025_Gefahr",
+        "userDefined": true
+      },
+      {
+        "text": " bei ",
+        "userDefined": false
+      },
+      {
+        "text": "importieren",
+        "alias": "FAQ_BFG_025_importieren",
+        "meta": "@FAQ_BFG_025_importieren",
+        "userDefined": true
+      },
+      {
+        "text": "  von ",
+        "userDefined": false
+      },
+      {
+        "text": "Lebensmittel",
+        "alias": "FAQ_BFG_025_Lebensmittel",
+        "meta": "@FAQ_BFG_025_Lebensmittel",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e9c7c7b-f4b4-4fa9-9f3d-c1d0b0dce5b9",
+    "data": [
+      {
+        "text": "Gefahr Import Lebensmittel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "id": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "name": "RKI_001_Simulation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "RKI_001_Simulation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Die folgende Schulung veranschaulicht die Verdachtsabklärung und folgende Maßnahmen, wie sie durch Ärzte durchgeführt wird. Nutze diese Schulung zur Vorbereitung für den Fall, dass du wirklich einmal ärztliche Hilfe benötigst. Dann weißt du, was dich erwartet und kannst den ganzen Prozess optimal unterstützen.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Möchtest du mit der Schulung beginnen?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "subtitle": "COVID-19: Verdachtsabklärung und Maßnahmen",
+          "formattedText": "Download einer Orientierungshilfe für Ärztinnen und Ärzte",
+          "image": {
+            "url": "https://www.auroguide.net/wp-content/uploads/2019/12/information-2160912.png",
+            "accessibilityText": "Simulation"
+          },
+          "buttons": [
+            {
+              "title": "Robert Koch Institut",
+              "openUrlAction": {
+                "url": "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Hallo"
+            },
+            {
+              "title": "Ja"
+            },
+            {
+              "title": "Nein"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Die folgende Schulung veranschaulicht die Verdachtsabklärung und folgende Maßnahmen, wie sie durch Ärzte durchgeführt wird. Nutze diese Schulung zur Vorbereitung für den Fall, dass du wirklich einmal ärztliche Hilfe benötigst. Dann weißt du, was dich erwartet und kannst den ganzen Prozess optimal unterstützen.\nMöchtest du mit der Schulung beginnen? [ Hallo | Ja | Nein | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

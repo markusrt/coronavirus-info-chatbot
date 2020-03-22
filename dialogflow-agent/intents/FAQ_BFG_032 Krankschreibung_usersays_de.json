@@ -1,0 +1,131 @@
+[
+  {
+    "id": "2077dad8-13f9-4515-9602-f964b90b54da",
+    "data": [
+      {
+        "text": "muss ich mit leichten Atemwegserkrankungen für eine Krankschreibung zum Arzt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b356edcc-adfd-41f3-ab35-3c87a8bf0c83",
+    "data": [
+      {
+        "text": "Krankschreibung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66311ac2-3191-4db3-ab09-f830d86bcbf6",
+    "data": [
+      {
+        "text": "muss ich für eine Krankschreibung in die Arztpraxis gehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9f86178e-7f87-4302-b7d0-327bd7db1b60",
+    "data": [
+      {
+        "text": "brauche ich eine Krankschreibung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cdd1e102-27ee-4866-917b-8f22778060cf",
+    "data": [
+      {
+        "text": "muss ich mich krankschreiben lassen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7fd16ac-af56-4f29-88df-cd51e4012565",
+    "data": [
+      {
+        "text": "wo bekomme ich eine Bescheinigung auf Arbeitsunfähigkeit her",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9303d560-e020-497d-91fc-b778bc31877b",
+    "data": [
+      {
+        "text": "Wo bekomme ich ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Bescheinigung auf Arbeitsunfähigkeit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d66ae3a2-751f-454d-95e0-fd80cde65225",
+    "data": [
+      {
+        "text": "Muss ich mich krankschreiben lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eaccd3a-ea14-4e7d-954a-c1463ea855a8",
+    "data": [
+      {
+        "text": "Brauche ich eine Krankschreibung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2142f35-16ad-4711-b31b-a91193d3a07b",
+    "data": [
+      {
+        "text": "Muss ich mit leichten Atemwegserkrankungen für eine Krankschreibung in die Arztpraxis gehen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

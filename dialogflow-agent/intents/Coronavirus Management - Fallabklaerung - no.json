@@ -1,0 +1,37 @@
+{
+  "id": "787e337a-2be8-4ad8-b4df-775a281b3a99",
+  "parentId": "8ef1e428-101e-4b51-a1fa-df2710be1961",
+  "rootParentId": "d35c82a4-7336-47cb-bdcf-af5b37625bba",
+  "name": "Coronavirus Management - Fallabklaerung - no",
+  "auto": true,
+  "contexts": [
+    "CoronavirusManagement-Fallabklaerung-followup",
+    "CoronavirusManagement-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CoronavirusManagement.CoronavirusManagement-Fallabklaerung.CoronavirusManagement-Fallabklaerung-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

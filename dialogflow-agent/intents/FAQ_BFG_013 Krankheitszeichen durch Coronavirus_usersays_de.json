@@ -1,0 +1,344 @@
+[
+  {
+    "id": "342f524b-39c8-48cf-8509-8900178cfc69",
+    "data": [
+      {
+        "text": "wann",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spreche ich von ",
+        "userDefined": false
+      },
+      {
+        "text": "einem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Verdachtsfall",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "62dc5b13-2959-413e-a27b-4147e4f1ca5f",
+    "data": [
+      {
+        "text": "habe ich corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fbcec9e-20d9-4602-a863-2c7b0c8136a2",
+    "data": [
+      {
+        "text": "ich habe fieber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2221a980-469b-4be4-a118-e6da967b7d92",
+    "data": [
+      {
+        "text": "Was ist bei einem Corona-Verdacht zu tun, welche Symptome gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9349abbd-2fbf-41b9-8508-a0cc189d2b5a",
+    "data": [
+      {
+        "text": "welche Symptome ich das Virus hervor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66fa03ae-4872-4e3c-afcf-5d106bc8c806",
+    "data": [
+      {
+        "text": "wer sollte auf einer Corona Virusinfektion getestet werden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60e7cb30-673b-4a73-b466-3c848e49dd40",
+    "data": [
+      {
+        "text": "welche Symptome zeige ich wenn ich mich angesteckt habe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00494ad2-0622-419a-bdb3-d77fcde618fc",
+    "data": [
+      {
+        "text": "muss ich zum ",
+        "userDefined": false
+      },
+      {
+        "text": "Arzt",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " wenn ich ",
+        "userDefined": false
+      },
+      {
+        "text": "huste",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6a6dc43-64ce-4a62-aae1-b8365afab22e",
+    "data": [
+      {
+        "text": "welche Krankheitsanzeichen gibt es",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00e0fbff-e5da-4eba-be19-e60b8946da85",
+    "data": [
+      {
+        "text": "Krankheitszeichen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b15e57dc-712e-4086-bf4a-0aa028f65cea",
+    "data": [
+      {
+        "text": "welche sind die Symptome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "367f5d0d-47ce-40a4-9adf-0d5086ba24c9",
+    "data": [
+      {
+        "text": "welche Anzeichen machen sich bemerkbar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25e086a-3ac3-4383-9f89-d32418e4f81e",
+    "data": [
+      {
+        "text": "wie macht sich die Krankheit bemerkbar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e63ee3ee-aef0-4aa5-91b8-1dde9c457618",
+    "data": [
+      {
+        "text": "Wie hoch ist das Fieber bei Corona ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53cfce4c-fc5d-4347-b919-96972b75dfd7",
+    "data": [
+      {
+        "text": "Welche Krankheitszeichen werden durch das neue Coronavirus ausgelöst?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5afa591-444a-4aef-920c-1aad7f4a1105",
+    "data": [
+      {
+        "text": "Welche sind die Symthome?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2690cf72-d6d5-4073-8e99-81838f25349c",
+    "data": [
+      {
+        "text": "Meine ",
+        "userDefined": false
+      },
+      {
+        "text": "Nase",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " läuft?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9284fe0d-3829-450a-a448-598ea89bdbd6",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "39 Grad",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Fieber",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3096b180-76b0-45cd-a965-e06758890f7c",
+    "data": [
+      {
+        "text": "Mein ",
+        "userDefined": false
+      },
+      {
+        "text": "Hals",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " krazt?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8dc72b30-e965-4f30-b3fb-836ed59743fb",
+    "data": [
+      {
+        "text": "Ich habe ",
+        "userDefined": false
+      },
+      {
+        "text": "Husten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5a0eb9d-f46c-4ae7-962d-d59ac023d575",
+    "data": [
+      {
+        "text": "Bin ich Virusträger?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69a410ac-28e9-4f5a-93af-931b8137e602",
+    "data": [
+      {
+        "text": "Krankheitszeichen durch Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

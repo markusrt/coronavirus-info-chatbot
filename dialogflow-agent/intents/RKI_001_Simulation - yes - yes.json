@@ -1,0 +1,142 @@
+{
+  "id": "fde123d6-47f5-49c1-9f71-8a0dee18c5e2",
+  "parentId": "63f1886c-01e7-4c39-9e3b-82d9c9ec852f",
+  "rootParentId": "0ed4f68c-8557-483a-b92a-546cf4996055",
+  "name": "RKI_001_Simulation - yes - yes",
+  "auto": true,
+  "contexts": [
+    "RKI_001_Simulation-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "RKI_001_Simulation.RKI_001_Simulation-yes.RKI_001_Simulation-yes-yes",
+      "affectedContexts": [
+        {
+          "name": "RKI_001_Simulation-yes-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Ok, als nächstes erfolgt die Prüfung der klinisch-epidemiologischen Kriterien. Hierbei solltest du damit rechnen, dass das Personal Schutzkleidung trägt, um sich gemäß Risikoabwägung nicht anzustecken. Diese Phase entscheidet über die Folgemaßnahmen und Weiterversorgung. Schaue dir die Kriterien unten einmal an. Wenn von einem begründeten Verdachtsfall auszugehen ist, wirst du spätestens jetzt in einen separaten Raum geführt.",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Möchtest du wissen, wie eine Weiterversorgung erfolgen könnte?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "table_card",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "title": "Kriterien",
+          "subtitle": "",
+          "columnProperties": [
+            {
+              "header": "",
+              "horizontalAlignment": "LEADING"
+            }
+          ],
+          "rows": [
+            {
+              "cells": [
+                {
+                  "text": "[1] Unspezifische Allgemeinsymptome oder akute respiratorische Symptome jeder Schwere und Kontakt zu bestätigtem COVID-19-Fall bis max. 14 Tage vor Erkrankungsbeginn"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "[2] Akute respiratorische Symptome jeder Schwere mit oder ohne Fieber und Aufenthalt in Risikogebieten bis max. 14 Tage vor Erkrankungsbeginn"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "[3] Akute respiratorische Symptome jeder Schwere mit oder ohne Fieber und Aufenthalt in Regionen mit COVID-19-Fällen bis max. 14 Tage vor Erkrankungsbeginn"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": "[4] Klinische oder radiologische Hinweise auf eine virale Pneumonie ohne Alternativdiagnose und ohne erfassbares Expositionsrisiko"
+                }
+              ],
+              "dividerAfter": false
+            },
+            {
+              "cells": [
+                {
+                  "text": ""
+                }
+              ],
+              "dividerAfter": true
+            },
+            {
+              "cells": [
+                {
+                  "text": "Bei [1] und/oder [2] erfolgt Meldung eines begründeten Verdachtsfalls beim zuständigen Gesundheitsamt"
+                }
+              ],
+              "dividerAfter": false
+            }
+          ],
+          "buttons": []
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Ja"
+            },
+            {
+              "title": "Nein"
+            },
+            {
+              "title": "Dialog Beenden"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ok, als nächstes erfolgt die Prüfung der klinisch-epidemiologischen Kriterien. Hierbei solltest du damit rechnen, dass das Personal Schutzkleidung trägt, um sich gemäß Risikoabwägung nicht anzustecken. Diese Phase entscheidet über die Folgemaßnahmen und Weiterversorgung. Es gibt 4 Kriterien. [1] Unspezifische Allgemeinsymptome oder akute respiratorische Symptome jeder Schwere und Kontakt zu bestätigtem COVID-19-Fall bis max. 14 Tage vor Erkrankungsbeginn. [2] Akute respiratorische Symptome jeder Schwere mit oder ohne Fieber und Aufenthalt in Risikogebieten bis max. 14 Tage vor Erkrankungsbeginn. [3] Akute respiratorische Symptome jeder Schwere mit oder ohne Fieber und Aufenthalt in Regionen mit COVID-19-Fällen bis max. 14 Tage vor Erkrankungsbeginn. [4] Klinische oder radiologische Hinweise auf eine virale Pneumonie ohne Alternativdiagnose und ohne erfassbares Expositionsrisiko. Bei [1] und/oder [2] erfolgt Meldung eines begründeten Verdachtsfalls beim zuständigen Gesundheitsamt. Wenn von einem begründeten Verdachtsfall auszugehen ist, wirst du spätestens jetzt in einen separaten Raum geführt. Möchtest du wissen, wie eine Weiterversorgung erfolgen könnte? [ Ja | Nein | Dialog Ende ]"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

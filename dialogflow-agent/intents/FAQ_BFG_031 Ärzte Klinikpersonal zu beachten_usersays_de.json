@@ -1,0 +1,26 @@
+[
+  {
+    "id": "82c2e899-f6d5-403c-9a50-33a9aa06d07c",
+    "data": [
+      {
+        "text": "was ist für Ärzte und Klinikpersonal zu beachten",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11cbc47a-ef06-46bc-bab8-57724ee0482b",
+    "data": [
+      {
+        "text": "Was ist für Ärzte und Klinikpersonal zu beachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

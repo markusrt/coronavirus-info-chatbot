@@ -1,0 +1,164 @@
+[
+  {
+    "id": "fe8dec3f-8849-4d2f-ab41-d3dc0c46f8ef",
+    "data": [
+      {
+        "text": "gibt es eine Impfung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ac21817-9457-4d14-b5be-9ca94eb275b1",
+    "data": [
+      {
+        "text": "kann man sich dagegen impfen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fd3ffb3-07b8-49d6-8059-28edaf0f85ac",
+    "data": [
+      {
+        "text": "Welche  Pillen wirken dagegen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c577f25b-26fc-4922-8158-2607d21c332c",
+    "data": [
+      {
+        "text": "Gibt es Arzneimittel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc357e89-d135-49ac-819b-f3b8bae46f23",
+    "data": [
+      {
+        "text": "Welche Medikamente gibt es?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5f03fca-5cbb-4835-bcaf-efe8a351e1a6",
+    "data": [
+      {
+        "text": "Kann ich mich vorbereiten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12dbac57-1899-4822-9516-226fb71763d8",
+    "data": [
+      {
+        "text": "Wie kann ich vorbeugen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79455f8f-5edd-45d4-b054-1fc314e273db",
+    "data": [
+      {
+        "text": "Kann ich mich impfen lassen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5fd62d0c-0c09-4822-a3d9-7dd865229cc3",
+    "data": [
+      {
+        "text": "Hilft ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Schutzimpfung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abd1a377-4252-4e12-a12d-c84a163e9daa",
+    "data": [
+      {
+        "text": " Ist ein Impfstoffes erfügbar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ac0dc46-0e6e-46ae-bdde-1d65689124e3",
+    "data": [
+      {
+        "text": "Gibt es ",
+        "userDefined": false
+      },
+      {
+        "text": "eine",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " Impfung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b110256f-aa03-4118-8fa8-be0b32008ea7",
+    "data": [
+      {
+        "text": "Impfung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

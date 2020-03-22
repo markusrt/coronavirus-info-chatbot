@@ -1,0 +1,56 @@
+[
+  {
+    "value": "Gegenstand",
+    "synonyms": [
+      "Gegenstand"
+    ]
+  },
+  {
+    "value": "Objekt",
+    "synonyms": [
+      "Objekt"
+    ]
+  },
+  {
+    "value": "Erzeugnis",
+    "synonyms": [
+      "Erzeugnis"
+    ]
+  },
+  {
+    "value": "Bestandteil",
+    "synonyms": [
+      "Bestandteil"
+    ]
+  },
+  {
+    "value": "Teil",
+    "synonyms": [
+      "Teil"
+    ]
+  },
+  {
+    "value": "Ding",
+    "synonyms": [
+      "Ding"
+    ]
+  },
+  {
+    "value": "Sachen",
+    "synonyms": [
+      "Sachen"
+    ]
+  },
+  {
+    "value": "Produkt",
+    "synonyms": [
+      "Produkt"
+    ]
+  },
+  {
+    "value": "Material",
+    "synonyms": [
+      "Material"
+    ]
+  }
+]

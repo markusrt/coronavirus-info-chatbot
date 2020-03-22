@@ -1,0 +1,67 @@
+{
+  "id": "fc1c74ba-5c43-43a7-9ffb-4265603d708c",
+  "parentId": "8803984c-24ec-4291-aa22-42dc26189345",
+  "rootParentId": "d35c82a4-7336-47cb-bdcf-af5b37625bba",
+  "name": "Coronavirus Management - Fallabklaerung - Krank - Tage - Kontakt",
+  "auto": true,
+  "contexts": [
+    "CoronavirusManagement-Fallabklaerung-Krank-Tage-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "CoronavirusManagement-Fallabklaerung-Krank-Tage-Kontakt-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "textToSpeech": "Ok, ich habe verstanden, dass du Kontakt zu einem Coronavirus Fall hattest. Hast du dich seit #coronavirusmanagement-fallabklaerung-krank-tage-followup.wochentag, dem #coronavirusmanagement-fallabklaerung-krank-tage-followup.erkrankungsDatum in einem Risikogebiet aufgehalten?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "de",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Ja"
+            },
+            {
+              "title": "Nein"
+            },
+            {
+              "title": "Dialog Ende"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "de",
+          "condition": "",
+          "speech": "Ok, ich habe verstanden, dass du Kontakt zu einem Coronavirus Fall hattest. Hast du dich seit #coronavirusmanagement-fallabklaerung-krank-tage-followup.wochentag, dem #coronavirusmanagement-fallabklaerung-krank-tage-followup.erkrankungsDatum in einem Risikogebiet aufgehalten?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

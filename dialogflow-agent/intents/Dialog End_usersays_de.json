@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ac6d5ec1-6806-41cf-a9ad-0eb1b4f0cba4",
+    "data": [
+      {
+        "text": "Auf wiedersehen.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "cb411b9c-c2ca-4ece-9c32-3e789c8b94d5",
+    "data": [
+      {
+        "text": "Dialog beenden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8315c9f-9581-4415-be58-546993c61542",
+    "data": [
+      {
+        "text": "Dialog Ende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "77067fd6-30dd-40a2-8324-cfcc00ecf820",
+    "data": [
+      {
+        "text": "Dialog ende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7a4ccf4-0c74-4a88-b5d4-ac71efd78c39",
+    "data": [
+      {
+        "text": "dialog ende",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb998d3b-7bac-40e6-a5c1-d3854678cd48",
+    "data": [
+      {
+        "text": "Auf Wiedersehen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2998c4d2-ae64-4254-bf2b-f1a2002b1bb3",
+    "data": [
+      {
+        "text": "danke schön ich bin weg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f9bc77e-e73d-4987-a046-d49c7c202a4d",
+    "data": [
+      {
+        "text": "tschüss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a48b11bb-d77e-4929-a15a-7cd6013f040f",
+    "data": [
+      {
+        "text": "Ich bin weg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fab0d091-b9f4-4332-9d54-eaa6dd221885",
+    "data": [
+      {
+        "text": "Bis zum nächsten Mal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b06b5227-4e26-494b-8836-8e928e69f8ef",
+    "data": [
+      {
+        "text": "Dankeschön",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3c5acfe-1355-4cfb-b887-1d76edec9798",
+    "data": [
+      {
+        "text": "Vielen Dank!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4e74416-5b49-4b32-8a43-9d7e08c28a45",
+    "data": [
+      {
+        "text": "Tschüß",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5233d658-1e45-4351-b24f-5c25f9722eba",
+    "data": [
+      {
+        "text": "Das ",
+        "userDefined": false
+      },
+      {
+        "text": "recht",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70353c83-4d7c-4eea-ac91-abd0a09d65e4",
+    "data": [
+      {
+        "text": "Ich möchte das Gespräch beenden.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
