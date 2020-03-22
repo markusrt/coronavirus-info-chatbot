@@ -18,7 +18,7 @@ jobs:
           mkdir dialogflow-agent/functions
           cp functions/index.js dialogflow-agent/functions/functions_index.js
           cp functions/package.json dialogflow-agent/functions/functions_package.json
-          zip -r --junk-paths dialogflow-agent.zip dialogflow-agent
+          zip -r dialogflow-agent.zip dialogflow-agent/*
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
