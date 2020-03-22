@@ -7,8 +7,8 @@
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
-    "googleAssistantCompatible": false,
-    "project": "",
+    "googleAssistantCompatible": true,
+    "project": "agent-jiqubv",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
@@ -26,12 +26,12 @@
     "capabilities": [],
     "env": "",
     "protocolVersion": "V2",
-    "autoPreviewEnabled": false,
+    "autoPreviewEnabled": true,
     "isDeviceAgent": false
   },
   "defaultTimezone": "Europe/Madrid",
   "webhook": {
-    "url": "",
+    "url": "https://us-central1-agent-jiqubv.cloudfunctions.net/dialogflowFirebaseFulfillment",
     "username": "",
     "headers": {},
     "available": true,
