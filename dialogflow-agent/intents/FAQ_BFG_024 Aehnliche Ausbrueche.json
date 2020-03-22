@@ -1,13 +1,26 @@
 {
-  "id": "99612436-b54a-411e-9a05-0e8621ee23f7",
-  "name": "FAQ_BFG_018 Personen unter Quarantäne",
+  "id": "a27c4642-0cff-4d00-9f48-14b6ee19a032",
+  "name": "FAQ_BFG_024 Aehnliche Ausbrueche",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "ecb8816a-5cf9-44e7-9075-f6567be79d93",
+          "required": false,
+          "dataType": "@FAQ_BFG_024_Ausbruch",
+          "name": "FAQ_BFG_024_Ausbruch",
+          "value": "$FAQ_BFG_024_Ausbruch",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,

@@ -1,26 +1,13 @@
 {
-  "id": "a27c4642-0cff-4d00-9f48-14b6ee19a032",
-  "name": "FAQ_BFG_024 Ähnliche Ausbrüche",
+  "id": "c751d7f0-7237-4520-80dd-5b34bbb3d589",
+  "name": "FAQ_BFG_031 Aerzte Klinikpersonal zu beachten",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [
-        {
-          "id": "ecb8816a-5cf9-44e7-9075-f6567be79d93",
-          "required": false,
-          "dataType": "@FAQ_BFG_024_Ausbruch",
-          "name": "FAQ_BFG_024_Ausbruch",
-          "value": "$FAQ_BFG_024_Ausbruch",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": 0,

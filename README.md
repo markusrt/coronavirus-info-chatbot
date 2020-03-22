@@ -8,7 +8,11 @@ Entlastung von Hotlines und Ärzte:innen durch einen Chatbot für FAQs, Verdacht
 
 ### Einrichten von DialogFlow
 
-Packt den Ordner `./dialogflow-agent` in ein ZIP-Archiv und importiert dies in einen neuen Agenten bei <https://dialogflow.cloud.google.com/> (`Agent Settings (cog-icon) -> Export and Import -> Restore from ZIP`)
+Verwende den folgenden Link um den Agent in DialogFlow zu installieren:
+
+<a href="https://console.dialogflow.com/api-client/oneclick?templateUrl=h https://github.com/markusrt/coronavirus-info-chatbot/releases/latest/download/DialogFlow-Agent.zip" target="_blank">
+  <img src="https://dialogflow.com/images/deploy.png">
+</a>
 
 ### Einrichten des Fulfillment
 
