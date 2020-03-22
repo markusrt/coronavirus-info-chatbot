@@ -24,13 +24,13 @@ const faqBFG = [
         "Time": "5:43:00 PM"
     },
     {
-        "Timestamp": "3/11/2020 2:22:00",
+        "Timestamp": "3/22/2020 16:21:00",
         "Id": "FAQ_BFG_003",
         "Intent": "FAQ_BFG_003 Deutschland Vorbereitung",
         "Question": "Wie ist Deutschland vorbereitet?",
-        "Answer": "Deutschland ist bestmöglich vorbereitet. Vor allem das Netzwerk von Kompetenzzentren und Spezialkliniken in Deutschland ist international beispiellos. Wir verfügen über ein sehr gutes Krankheitswarn- und Meldesystem und Pandemiepläne. Außerdem werden in Deutschland regelmäßige Notfallübungen an Flughäfen durchgeführt. Die Koordinierung und Informationen übernimmt das Robert Koch-Institut.",
-        "Date": "3/11/20",
-        "Time": "12:40:00 AM"
+        "Answer": "Deutschland ist bestmöglich vorbereitet. Vor allem das Netzwerk von Kompetenzzentren und Spezialkliniken in Deutschland ist international beispiellos. Wir verfügen über ein sehr gutes Krankheitswarn- und Meldesystem und Pandemiepläne. Die Grundlage für die Pandemieplanung bildet in Deutschland der Nationale Pandemieplan, der im März 2017 von Bund und Ländern verabschiedet wurde und regelmäßig aktualisiert wird. Außerdem werden in Deutschland regelmäßige Notfallübungen an Flughäfen durchgeführt. Die Koordinierung und Informationen übernimmt das Robert Koch-Institut.",
+        "Date": "3/22/20",
+        "Time": "4:21:00 PM"
     },
     {
         "Timestamp": "3/11/2020 2:22:00",
