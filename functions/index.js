@@ -427,7 +427,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
                 }
             });
 
-        agent.add(`Ok, dann betrachten wir rückwirkend einen Zeitraum von ${periodDays} Tagen. Hattest du seit ${infectionDateWeekdayParameter}, den ${infectionDateParameter} Kontakt zu bestätigten Coronavirus Fällen?`);
+        agent.add(`Ok, dann betrachten wir rückwirkend einen Zeitraum von ${periodDays} Tagen. Hattest du seit ${infectionDateWeekdayParameter}, den ${infectionDateParameter}, Kontakt zu bestätigten Coronavirus Fällen?`);
         agent.add(new Suggestion(`Ja`));
         agent.add(new Suggestion(`Nein`));
         agent.add(new Suggestion(`Dialog Ende`));
