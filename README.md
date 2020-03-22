@@ -70,7 +70,7 @@ Dialogbaums modeliert. Notwendige Callbacks an das Fullfillment sind direkt im I
 * Wie es gelingt unter 20.000 Menschen ein Team von fünf Teilnehmern zu finden.
 * Nutzung von Slack, Devpost,... zur Organisation.
 * Nutzung von Google Dialogflow zur Erstellung eines Chatbots.
-* Wie positiv sich intrinsiche Motivation der Teammitglieder auf die Gesamtproduktivität des Teams auswirkt.
+* Wie positiv sich intrinsische Motivation der Teammitglieder auf die Gesamtproduktivität des Teams auswirkt.
 * Mit welcher Geschwindigkeit fremde Personen so in ein neues Tool eingeführt werden können, dass sie aktiv und effektiv mitarbeiten.
 
 ## Was kommt als nächstes
