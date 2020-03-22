@@ -27,7 +27,7 @@ Dort wählst Du die heruntergeladene ZIP Datei hoch.
 
 Nach dem Import kann es ein paar Minuten dauern bis das Fullfillment deployt ist.
 
-Falls bestimmte Funktionen nach mehr als 10 Minuten noch nicht erreichbar sind muss man auch einmal manuell auf den
+Falls bestimmte Funktionen nach mehr als 10 Minuten noch nicht erreichbar sind, muss man auch einmal manuell auf den
 Deploy Button klicken:
 
 ![Fulfillment -> Deploy](documentation/deploy-fulfillment.png)
