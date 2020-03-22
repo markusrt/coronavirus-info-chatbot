@@ -12,7 +12,7 @@ const faqBFG = [
         "Question": "Wofür stehen SARS-CoV-2 und Covid-19?",
         "Answer": "Seit dem 11. Februar 2020 trägt das neuartige Coronavirus, das bislang vorläufig mit 2019nCoV bezeichnet wurde, einen neuen Namen: SARS-CoV-2. Das Akronym SARS steht hierbei für “Schweres Akutes Atemwegssyndrom”. Die Lungenkrankheit, welche durch SARS-CoV-2 ausgelöst werden kann, wird mit Covid-19 abgekürzt und steht stellvertretend für “Corona Virus Disease 2019”.",
         "Date": "3/22/20",
-        "Time": "15:45:00 PM"
+        "Time": "3:45:00 PM"
     },
     {
         "Timestamp": "3/11/2020 2:22:00",
