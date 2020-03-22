@@ -8,15 +8,31 @@ Entlastung von Hotlines und Ärzte:innen durch einen Chatbot für FAQs, Verdacht
 
 ### Einrichten von DialogFlow
 
-Verwende den folgenden Link um den Agent in DialogFlow zu installieren:
+Verwende den folgenden Link um den DialogFlow-Agent herunterzuladen:
 
-<a href="https://console.dialogflow.com/api-client/oneclick?templateUrl=h https://github.com/markusrt/coronavirus-info-chatbot/releases/latest/download/DialogFlow-Agent.zip" target="_blank">
-  <img src="https://dialogflow.com/images/deploy.png">
-</a>
+[DialogFlow Agent](https://github.com/markusrt/coronavirus-info-chatbot/releases/latest/download/DialogFlow-Agent.zip)
+
+Logge dich bei <https://console.dialogflow.com/> mit einem Google-Account ein und erstelle einen neuen Agenten. Wichtig ist,
+dass die Sprache auf `Deutsch` eingestellt ist:
+
+![DialogFlow -> Create Agent](documentation/create-agent.png)
+
+Anschließend gehst du auf Import:
+
+![Agent -> Settings -> Export and Import](documentation/import-agent.png)
+
+Dort wählst Du die heruntergeladene ZIP Datei hoch.
 
 ### Einrichten des Fulfillment
 
-TBD
+Nach dem Import kann es ein paar Minuten dauern bis das Fullfillment deployt ist.
+
+Falls bestimmte Funktionen nach mehr als 10 Minuten noch nicht erreichbar sind muss man auch einmal manuell auf den
+Deploy Button klicken:
+
+![Fulfillment -> Deploy](documentation/deploy-fulfillment.png)
+
+Das Deployment dauert immer ein paar Minuten und das letzte Datum ist unten sichtbar.
 
 ## Inspiration
 
@@ -26,7 +42,17 @@ Wegen der Häufung von Anrufen bei Hotlines und Ärzte:innen zu allgemeinen Frag
 
 Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen, vorgefertigten Antworten aus vertrauenswürdigen Quellen. Nutzer:innen können darüber hinaus das Coronavirus Management verwenden, um durch Verdachtsabklärung und Quarantänebetreuung das Gesundheitswesen zu unterstützen. Siehe auch <https://www.bundesgesundheitsministerium.de/coronavirus.html>
 
-## Wie wurde er gebaut
+## Wie wurde das Projekt entwickelt
+
+Das Projekt wurde auf Basis von Google DialogFlow entwickelt. Diese Platform ermöglicht die Erstellung eines sprachgesteuerten
+Assistenten welcher über bestimmte Trainingstexte auf das verstehen bestimmter Fragen trainiert werden kann.
+
+In der ersten Ausbaustufe wurden die FAQs zu COVID-19 in DialogFlow integriert wobei zu vielen vom Bundesgesundheitsministerium bereitgestellten [FAQs](https://www.bundesgesundheitsministerium.de/coronavirus.html) ein entsprechender Eintrag trainiert wurde.
+
+Hierbei ist es wichtig die Fragen so zu trainieren wie sie von der Bevölkerung an den Chatbot gestellt werden.
+
+Ein weiterer Ausbau fand dann im Rahmen des [WirVsVirus Hackathon](https://wirvsvirushackathon.org/) statt. Dabei ging es hauptsächlich um den unter [Verdachtsabklärungs Workflow](documentation/flowchart-case-detection-drawio.png) welcher in der Form vom RKI an die Ärzte herausgeben wird. In den Intents `Coronavirus Management *` ist ein erster Entwurf eines entsprechenden
+Dialogbaums modeliert. Notwendige Callbacks an das Fullfillment sind direkt im Inline-Editor bzw. hier im Repo in der [index.js](functions/index.js) JavaScript Datei erfolgt.
 
 ## Welche Herausforderungen haben sich uns gestellt
 
