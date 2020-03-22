@@ -285,13 +285,13 @@ const faqBFG = [
         "Time": "12:40:00 AM"
     },
     {
-        "Timestamp": "3/11/2020 2:29:50",
+        "Timestamp": "3/22/2020 16:33:00",
         "Id": "FAQ_BFG_032",
         "Intent": "FAQ_BFG_032 Krankschreibung",
         "Question": "Muss ich mit leichten Atemwegserkrankungen für eine Krankschreibung in die Arztpraxis gehen?",
         "Answer": "Ab sofort können Patienten mit leichten Erkrankungen der oberen Atemwege nach telefonischer Rücksprache mit ihrem Arzt eine Bescheinigung auf Arbeitsunfähigkeit (AU) bis maximal sieben Tage ausgestellt bekommen. Sie müssen dafür nicht die Arztpraxen aufsuchen. Diese Vereinbarung gilt seit 9. März 2020 und zunächst für vier Wochen.",
-        "Date": "3/11/20",
-        "Time": "2:29:00 AM"
+        "Date": "3/22/20",
+        "Time": "4:33:00 PM"
     }
 ];
 
