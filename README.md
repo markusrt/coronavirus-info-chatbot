@@ -24,7 +24,7 @@ Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen,
 
 ## Wie wurde er gebaut
 
-## Welche Herausvorderungen haben sich uns gestellt
+## Welche Herausforderungen haben sich uns gestellt
 
 Der Aufwand, der damit einher geht, alle möglichen Antworten der Nutzer:innen abzudecken, benötigt viel Zeit und Manpower. Des Weiteren stellen sich vor allem bei der Quarantänebetreuung datenschutzrechtliche Herausforderungen. Damit einher geht die Frage, wie eine datenschutzkonforme Übermittlung der erfassten Daten (Temperatur, gesundheitlicher Zustand,...) konkret umgesetzt werden kann. Dabei muss spezieller Augenmerk darauf gerichtet werden, dass dies möglichst nicht zu Lasten der Bedienbarkeit geht.
 
