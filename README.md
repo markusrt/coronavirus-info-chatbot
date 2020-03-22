@@ -38,7 +38,7 @@ Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen,
 ## Was haben wir gelernt
 
 * Wie es gelingt unter 20.000 Menschen ein Team von fünf Teilnehmern zu finden
-** Nutzung von Slack, Devpost,... zur Organisation
+* Nutzung von Slack, Devpost,... zur Organisation
 * Nutzung von Google Dialogflow zur Erstellung eines Chatbots.
 
 ## Was kommt als nächstes
