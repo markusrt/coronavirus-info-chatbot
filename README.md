@@ -1,6 +1,6 @@
 # Coronavirus Info Chatbot
 
-Coronavirus Google Assistent Bot der FAQs beantwortet. Zudem soll er bei der Fallabklärung potentiell Betroffener helfen und die Selbst-Quarantäne unterstützen.
+Entlastung von Hotlines und Ärzte:innen durch einen Chatbot für FAQs, Fallabklärung und Quarantäne-Betreuung. Mobil, Sprachgesteuert, Sicher
 
 <https://devpost.com/software/039_staatliche_kommunikation_coronavirus_info_chatbot>
 
@@ -18,13 +18,13 @@ TBD
 
 Wegen der Häufung von Anrufen bei Hotlines und Ärzte:innen zu allgemeinen Fragestellung, deren Antworten auf den Webseiten von BMG, RKI und WHO versteckt sind, laufen wir Gefahr, dass die individuelle Kommunikation beispielsweise bei Fallabklärung und Quarantänebetreuung nicht mehr durchgeführt werden kann. Hierbei geht es so wohl um überlastete Personen im Gesundheitssystem aber auch um nicht automatisch skalierbare IT-Systeme.
 
-## Was macht diese Projekt
+## Was macht dieses Projekt
 
 Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen, vorgefertigten Antworten aus vertrauenswürdigen Quellen. Du kannst darüber hinaus das Coronavirus Management nutzen, um durch Fallabklärung und Quarantänebetreuung das Gesundheitswesen zu unterstützen. Siehe auch <https://www.bundesgesundheitsministerium.de/coronavirus.html>
 
 ## Wie wurde er gebaut
 
-## Welche Herausforderungen haben sich uns gestellt
+## Welche Herausvorderungen haben sich uns gestellt
 
 Der Aufwand, der damit einher geht, alle möglichen Antworten der Nutzer:innen abzudecken, benötigt viel Zeit und Manpower. Des Weiteren stellen sich vor allem bei der Quarantänebetreuung datenschutzrechtliche Herausforderungen. Damit einher geht die Frage, wie eine datenschutzkonforme Übermittlung der erfassten Daten (Temperatur, gesundheitlicher Zustand,...) konkret umgesetzt werden kann. Dabei muss spezieller Augenmerk darauf gerichtet werden, dass dies möglichst nicht zu Lasten der Bedienbarkeit geht.
 
@@ -43,6 +43,19 @@ Der Aufwand, der damit einher geht, alle möglichen Antworten der Nutzer:innen a
 TBD
 
 ## Resourcen für Entwickler
+
+### Release
+
+Um einen Release durchzuführen muss der entsprechende Commit getaggt und dann entsprechend gepusht werden:
+
+```
+git tag -a v0.3
+git push --follow-tags
+```
+
+Der Workflow `.github\workflows\realease.yml` sorgt dann für den Rest :)
+
+### Dokumentation
 
 DialogFlow Dokumentation: <https://cloud.google.com/dialogflow/docs?hl=de>
 Konzepte: <https://cloud.google.com/dialogflow/docs/concepts?hl=de>
