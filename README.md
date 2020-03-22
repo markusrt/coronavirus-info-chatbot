@@ -62,7 +62,7 @@ Dialogbaums modeliert. Notwendige Callbacks an das Fullfillment sind direkt im I
 
 ## Darauf sind wir stolz
 
-* Einrichtung einer aktualisierten, umfangreichen FAQ Sammlung inklusive Weiterleitung der Nutzer:innen auf Seiten des BGM für weitere Informationen zur Vermittlung von offiziellen, aktuellen Informationen.
+* Einrichtung einer umfangreichen FAQ Sammlung inklusive Weiterleitung der Nutzer:innen auf Seiten des BGM für weitere Informationen zur Vermittlung von offiziellen, aktuellen Informationen.
 * Einrichtung einer initialen Verdachtsabklärung, welche die Nutzer:innen nach Leitlinien des RKI dabei unterstützt, festzustellen, ob sie möglicherweise mit SARS-CoV-2 infiziert sind. Anschließende Weiterleitung der Nutzer:innen an offizielle Stellen bei anfänglichem Infektionsverdacht.
 
 ## Was haben wir gelernt
