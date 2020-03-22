@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Build DialogFlow package
         run: |
-          md dialogflow-agent/functions
+          mkdir dialogflow-agent/functions
           cp functions/index.js dialogflow-agent/functions/functions_index.js
           cp functions/package.json dialogflow-agent/functions/functions_package.json
           zip -r dialogflow-agent.zip dialogflow-agent
