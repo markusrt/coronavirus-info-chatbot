@@ -6,7 +6,7 @@ const version = 'Version 47.07';
 
 const faqBFG = [
     {
-        "Timestamp": "3/11/2020 2:22:00",
+        "Timestamp": "3/11/2020 2:23:00",
         "Id": "FAQ_BFG_001",
         "Intent": "FAQ_BFG_001 Wofür stehen die Abkürzungen",
         "Question": "Wofür stehen SARS-CoV-2 und Covid-19?",
