@@ -47,7 +47,10 @@ Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen,
 
 ## Was kommt als nächstes
 
-TBD
+* Erweiterung des Assistenten zur Verdachtsabklärung, sodass auf alle eventuellen Eingaben der Nutzer:innen eingegangen werden kann.
+* Erweiterung und schließlich Umsetzung des Flowcharts zur Quarantänebetreuung, bei der die Patient:innen ihren Gesundheitszustand an das zuständige Gesundheitsamt melden können zur Entlastung der telefonischen Betreuung.
+* Validierung aller Daten auf Korrektheit aus medizinischer Sicht; Sicherstellung der datenschutzrechtlichen Konformität.
+* Bei einem produktiven Einsatz: Laufende Aktualisierung und Erweiterung der FAQ nach Hinweisen aus Google Analytics im Dialogflow.
 
 ## Resourcen für Entwickler
 
