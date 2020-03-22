@@ -45,7 +45,7 @@ Dieser Assistent beantwortet häufig gestellte Fragen mit ca. 35 ausführlichen,
 ## Wie wurde das Projekt entwickelt
 
 Das Projekt wurde auf Basis von Google DialogFlow entwickelt. Diese Platform ermöglicht die Erstellung eines sprachgesteuerten
-Assistenten welcher über bestimmte Trainingstexte auf das verstehen bestimmter Fragen trainiert werden kann.
+Assistenten welcher über bestimmte Trainingstexte auf das Verstehen bestimmter Fragen trainiert werden kann.
 
 In der ersten Ausbaustufe wurden die FAQs zu COVID-19 in DialogFlow integriert wobei zu vielen vom Bundesgesundheitsministerium bereitgestellten [FAQs](https://www.bundesgesundheitsministerium.de/coronavirus.html) ein entsprechender Eintrag trainiert wurde.
 
